@@ -1,0 +1,123 @@
+src: url("https://mdn.github.io/shared-assets/fonts/variable-fonts/MutatorSans.ttf");
+
+  
+   .first_nav{
+   /* background: linear-gradient(to top,red,orange);
+     background: linear-gradient(to top,#c97bee,#dcb4ee,); */
+
+   /* background-color:  #dcb4ee; */
+   /* color: rgb(87, 86, 86); */
+   
+   }
+   .first_nav{
+    background: linear-gradient(to  right,#A201EA,#ffffff);
+   }
+   .top-shape{
+    background: linear-gradient(to right,#A201EA,#C5A4F2); 
+   }
+.content-cert{   
+   font-family: 'Jost', sans-serif !important;
+   font-weight: 900 !important;
+}
+
+.small_text{
+  color: rgb(255, 255, 255) !important;
+  font-weight: 900;
+}
+.footer_terms{
+  background: linear-gradient(to  right,#A201EA,#ffffff) !important;
+}
+
+
+.whatsapp-link {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  bottom: 110px;
+  right: 30px;
+  background-color: #25d366;
+  color: #fff;
+  padding: 3px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 30px;
+  text-align: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.side_arrow{
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+  align-items: center;
+/* justify-content: center;
+  width: 46px;
+  height: 46px; */
+  /* bottom: 10px; */
+   width: 30px;
+  height: 30px; 
+  position: fixed;
+  display: none;
+  right: 45px;
+  bottom: 45px;
+  z-index: 99;
+}
+.side_arrow{
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+    align-items: center;
+justify-content: center;
+
+ 
+    position: fixed;
+    display: none;
+    right: 45px;
+    bottom: 45px;
+    z-index: 99;
+}
+.side_arrow i{
+  justify-content: center;
+}
+.cosmetic{
+  font-size: 40px;
+  font-weight: 1000 !important;
+  /* color: #c883e7; */
+  font-family: "Jost", sans-serif;
+  color: #A201EA  ;
+}
+.cosmetic1{
+  font-size: 30px;
+  /* font-weight: 1000 !important; */
+  /* color: #c883e7; */
+  font-family: "Jost", sans-serif;
+  /* color */
+}
+.cosmetic_img{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+
+.cosmetic-span{
+  font-family: "Jost", sans-serif;
+}
+
+.dental-bridges{
+border-radius: 100%;
+}
+
+.slider {
+  position: absolute;
+  width: calc(100% + 46px);
+  height: 46px;
+  top: calc(50% - 23px);
+  left: -23px;
+  display: flex;
+  justify-content: space-evenly;
+gap:400px;
+  justify-content: space-between;
+  z-index: 1;
+}
