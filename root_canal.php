@@ -23,7 +23,7 @@
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">
                 <div class="card">
-                    <img src="assets/img/revansh/.png" alt="" class="img-fluid">
+                    <img src="assets/img/revansh/28.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step1</h4>
                     <p>
                     The dentist examines the tooth using X-rays to detect infection. Local anesthesia is administered to ensure a pain-free experience.
@@ -33,7 +33,7 @@
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="assets/img/revansh/4.png" alt="" class="img-fluid">
+                    <img src="assets/img/revansh/rootcanal2.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step2</h4>
                     <p>
                     The infected pulp is carefully removed, and the root canals are thoroughly cleaned, disinfected, and shaped to eliminate bacteria. A biocompatible material is then used to seal the canals.
@@ -45,7 +45,7 @@
             </div>
             <div class="col-12 col-md-4  card-wrapper">
                 <div class="card">
-                    <img src="assets/img/revansh/4.png" alt="" class="img-fluid">
+                    <img src="assets/img/revansh/3.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step3</h4>
                     <p>
                     A dental crown or filling is placed to restore strength and function. The dentist provides aftercare tips, including good oral hygiene and avoiding hard foods.

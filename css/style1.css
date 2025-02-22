@@ -389,4 +389,11 @@ gap:400px;
 }
 
 
-navbar 
+.service_content{
+ text-align: center;
+padding-top: 20px;
+padding-bottom: 40px;
+}
+.service_view{
+  background: linear-gradient(to right, #0967b5, #0967b5, #86b7dc);
+}

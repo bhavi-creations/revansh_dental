@@ -74,6 +74,26 @@
                                 <div class="col-12 col-sm-6">
                                     <input type="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
                                 </div>
+
+                                
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" class="form-control bg-light border-0" placeholder="Contact" style="height: 55px;">
+                                </div>
+
+
+                                <div class="col-12 col-sm-6">
+                                    <select class="form-select bg-light border-0" style="height: 55px;">
+                                        <option selected>Select Service</option>
+                                        <option value="Dental implants">Dental implants</option>
+                                        <option value="Smile designing ">Smile designing </option>
+                                        <option value="Laser Dental Treatment">Laser Dental Treatment</option>
+                                        <option value="Invisible aligners ">Invisible aligners </option>
+                                        <option value="Teeth whitening">Teeth whitening</option>
+                                        <option value="Teeth cleaning">Teeth cleaning</option>
+                                        <option value="Teeth jewellery">Teeth jewellery</option>
+                                        <option value="root canal">root canal</option>
+                                    </select>
+                                </div> 
                                 <div class="col-12 col-sm-6">
                                     <div class="date" id="date1" data-target-input="nearest">
                                         <input type="text"
