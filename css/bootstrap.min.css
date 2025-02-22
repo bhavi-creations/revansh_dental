@@ -232,7 +232,7 @@ sup {
 }
 
 a {
-    color: #df4cec;
+    color: #0464b4    ;
     text-decoration: none
 }
 
@@ -8340,7 +8340,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-  background: linear-gradient(to right,#A201EA,#865396 ,#C5A4F2); 
+  background: linear-gradient(to right,#0464b4,#5999cc ,#7cb4dc); 
 }
 
 .bg-secondary {
@@ -8369,7 +8369,7 @@ fieldset:disabled .btn {
 
 .bg-dark {
     /* background-color: #091E3E !important */
-   background:linear-gradient(to right, #0D324D , #7F5A83);
+   background:linear-gradient(to right, #92bbde , #2f80c1,#2f80c1);
 }
 
 .bg-body {

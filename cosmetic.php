@@ -1,4 +1,9 @@
 <?php include "./includes/header.php"; ?>
+<style>
+
+    
+
+</style>
 
 <div class="container">
     <p class="text-center mt-5 cosmetic animate__animated animate__fadeInUp">Cosmetic Dentistry Treatment</p>
@@ -60,6 +65,51 @@
                 </div>
             </div>
 </div>
+
+
+
+
+
+
+<section class="section_color">
+    <div class="container">
+        <h4 class="root_step text-center mb-5">Advanced Dental Implants for a Healthy and Beautiful Smile
+        </h4>
+        <div class="row my-3">
+            <div class="col-12 col-md-4  card-wrapper ">
+                <div class="card">
+                    <img src="./assets/img/services/implants_treatment/implants_treatment_1.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step1</h4>
+                    <p>
+                    The first step involves surgically placing the titanium implant into the jawbone. Local anesthesia is used to ensure a painless procedure. The implant is carefully inserted into the bone beneath the gums, acting as a stable anchor for the replacement tooth. The gum is then stitched, allowing the area to heal.
+
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/implants_treatment/implants_treatment_2.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step2</h4>
+                    <p>
+                    Over the next few months, the implant naturally fuses with the jawbone through a process called osseointegration. This creates a strong and secure foundation for the artificial tooth. During this healing period, a temporary restoration may be placed to maintain aesthetics.
+
+                </div>
+            </div>
+            <div class="col-12 col-md-4  card-wrapper">
+                <div class="card">
+                    <img src="./assets/img/services/implants_treatment/implants_treatment_3.png" alt="" class="img-fluid">
+                    <h4 class="canal_step">Step3</h4>
+                    <p>
+                    Once healing is complete, a custom-made dental crown, bridge, or denture is securely attached to the implant using an abutment. The crown is designed to match the size, shape, and color of natural teeth, restoring both functionality and aesthetics. Patients receive care instructions to ensure long-lasting results.
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
 
 
 </div>

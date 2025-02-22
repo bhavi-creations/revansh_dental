@@ -118,7 +118,7 @@ justify-content: center;
     top: 0;
     left: -17px;
     /* background: var(--primary); */
-    background:#0065b5    ;
+    background:#6c6c73;
     transform: skew(40deg);
    
 }
@@ -223,7 +223,7 @@ justify-content: center;
 
 .bg-appointment {
     background-size: cover;
-    background: #b28de6;
+    /* background: #b28de6; */
 
 }
 
@@ -321,7 +321,8 @@ justify-content: center;
 }
 
 .testimonial-carousel {
-    background-image: linear-gradient(to right top, #a201ea, #a948ef, #b16bf2, #ba88f3, #c5a4f2);
+  background-image: linear-gradient(to right top, #5c5c5c, #727272, #726e6e, #7f7575, #5c5c5c);
+  opacity: 0.8;
 }
 
 .testimonial-carousel .owl-nav {

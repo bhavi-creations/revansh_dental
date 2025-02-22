@@ -1,16 +1,16 @@
 <div class="container-fluid bg-dark text-light py-4 wow fadeInUp mt-5" data-wow-delay="0.3s" style="margin-top: -75px;">
     <div class="container">
         <div class="row g-5 ">
-            <div class="col-lg-3 col-md-6">
-                <img src="./assets/img/logo.png" alt="" class="img-fluid" style="width: 200px; height: 200px;">
+            <div class="col-lg-4 col-md-6 footer_image" >
+                <img src="./assets/img/logo/logo1.png" alt="" class="img-fluid ">
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-2 col-md-6">
                 <h3 class="text-white ">Quick Links</h3>
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-light" href="index.php"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
                     <a class="text-light" href="about.php"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
                     <a class="text-light" href="service.php"><i class="bi bi-arrow-right text-primary me-2"></i>Our Services</a>
-                    <a class="text-light" href="blogs.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blogs/a>
+                    <a class="text-light" href="blogs.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blogs</a>
                     <a class="text-light" href="contact.php"><i class="bi bi-arrow-right text-primary me-2"></i>Contact Us</a>
                     <a class="text-light" href="appointment.php"><i class="bi bi-arrow-right text-primary me-2"></i>Appointment</a>
 
@@ -19,17 +19,17 @@
             <div class="col-lg-3 col-md-6">
                 <h3 class="text-white ">Services</h3>
                 <div class="d-flex flex-column justify-content-start">
-                    <a class="text-white"  href="cosmetic.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Cosmatic dentistry</a>
+                    <a class="text-white"  href="dental_implants.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Dental Implants</a>
 
-                    <a class="text-white" href="dental-brides.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Dental-Bridges</a>
-                    <a class="text-white" href="dental-implants.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Dental Implants</a>
-                    <a class="text-white" href="teeth.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Teeth Whitening</a>
-                    <a class="text-white" href="root-canal.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Root Canal</a>
-                    <a class="text-white" href="root-canal.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Root Canal</a>
+                    <a class="text-white" href="smile_designing.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Smile Designing</a>
+                    <a class="text-white" href="laser_treatment.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Laser Treatment</a>
+                    <a class="text-white" href="invisible_aligners.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Invisible Aligners</a>
+                    <a class="text-white" href="teeth_whitening.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Teeth Whitening</a>
+                    <a class="text-white" href="teeth_cleaning.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Teeth Cleaning</a>
 
-                    <a class="text-white" href="root-canal.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Root Canal</a>
+                    <a class="text-white" href="teeth_jewellery.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Teeth Jewellery</a>
 
-                    <a class="text-white" href="root-canal.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Root Canal</a>
+                    <a class="text-white" href="root_canal.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Root Canal</a>
 
                 </div>
             </div>
@@ -43,9 +43,18 @@
                     <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
                     <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-linkedin-in fw-normal"></i></a>
                     <a class="btn btn-lg btn-primary btn-lg-square rounded" href="#"><i class="fab fa-instagram fw-normal"></i></a> -->
-                <a href=" https://www.instagram.com/revanshdental_physiotherapy/"> <img src="assets/img/logo/instagram.png" alt="" target="_blank"> </a>
-
-                
+                    <ul class="social ">
+                                     
+                                         <!-- <i class="ri-facebook-fill"></i> -->
+                                         <a href="https://www.facebook.com/revanshdentalphysiotherapy/" target="_blank"> <img src="assets/img/icons/facebook.png" alt="" ></a>
+                                    
+                                         <a href="https://www.youtube.com/@revanshdentalphysiotherapy" target="_blank">
+                                             <!-- <i class="ri-twitter-fill"></i>  -->
+                                             <img src="assets/img/icons/youtube.png" alt="" class="img-fluid" ></a>
+                        
+                                         <!-- <i class="ri-instagram-fill"></i> -->
+                                         <a href="https://www.instagram.com/revanshdental_physiotherapy/" target="_blank"> <img src="assets/img/icons/instagram.png" alt="" class="img-fluid" ></a>
+                                  
                 </div>
             </div>
             <!-- <div class="col-lg-4 col-md-6">
@@ -128,5 +137,18 @@
 
 <!-- Template Javascript -->
 <script src="js/main.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
 </html>
