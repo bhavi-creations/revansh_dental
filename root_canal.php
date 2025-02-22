@@ -18,7 +18,7 @@
 
 <section class="section_color py-5">
     <div class="container">
-        <h4 class="root_step text-center my-5">Smile designing
+        <h4 class="root_step text-center my-5">Root Canal
         </h4>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">

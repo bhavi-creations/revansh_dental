@@ -397,3 +397,10 @@ padding-bottom: 40px;
 .service_view{
   background: linear-gradient(to right, #0967b5, #0967b5, #86b7dc);
 }
+
+@media (max-width:767px) {
+.header_logo{
+  width: 200px;
+}
+  
+}

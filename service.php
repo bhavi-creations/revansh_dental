@@ -81,9 +81,9 @@
                 
             </div>
             <div class="row g-5 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="col-lg-7">
+              
                     <div class="row g-5">
-                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
+                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden">
                                 <img class="img-fluid" src="assets/img/revansh/invisible_aligners.png" alt="">
                             </div>
@@ -91,22 +91,63 @@
                                 <h5 class="m-0" >  <a href="invisible_aligners.php">Invisible Aligners</a></h5>
                             </div>
                         </div>
-                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
+                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden">
-                                <img class="img-fluid" src="assets/img/revansh/teeth_whitening.png" alt="">
+                                <img class="img-fluid" src="assets/img/revansh/smile_dessign.png" alt="">
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0"> <a href="teeth_whitening.php"> Teeth Whitening</a> </h5>
+                                <h5 class="m-0"> <a href="smile_designing.php"> Smile Designing</a> </h5>
+                            </div>
+                        </div>
+                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                            <div class="rounded-top overflow-hidden">
+                                <img class="img-fluid" src="assets/img/revansh/laser.png" alt="">
+                            </div>
+                            <div class="position-relative bg-light rounded-bottom text-center p-4">
+                                <h5 class="m-0"> <a href="laser_treatment.php"> Laser Dental Treatment</a> </h5>
+                            </div>
+                        </div>
+                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                            <div class="rounded-top overflow-hidden">
+                                <img class="img-fluid" src="assets/img/revansh/teeth_cleaning.png" alt="">
+                            </div>
+                            <div class="position-relative bg-light rounded-bottom text-center p-4">
+                                <h5 class="m-0"> <a href="teeth_cleaning.php"> Teeth Cleaning</a> </h5>
                             </div>
                         </div>
                         
-                    </div>
+
+                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                            <div class="rounded-top overflow-hidden">
+                                <img class="img-fluid" src="assets/img/revansh/teeth_jewellery.png" alt="">
+                            </div>
+                            <div class="position-relative bg-light rounded-bottom text-center p-4">
+                                <h5 class="m-0"> <a href="teeth_jewellery.php">Teeth Jewellery</a> </h5>
+                            </div>
+                       
+
+                           
+                        
+                         </div>
+
+                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                            <div class="rounded-top overflow-hidden">
+                                <img class="img-fluid" src="assets/img/revansh/rootcanal.png" alt="">
+                            </div>
+                            <div class="position-relative bg-light rounded-bottom text-center p-4">
+                                <h5 class="m-0"> <a href="root_canal.php">Root Canal </a> </h5>
+                            </div>
                     
-                </div>
+                
                 
             </div>
         </div>
     </div>
+
+
+   </div> 
+
+  </div>
     <!-- Service End -->
     
 

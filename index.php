@@ -248,9 +248,8 @@ include "./includes/header.php";
             </div>
         </div>
         <div class="row g-5 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="col-lg-7">
-                <div class="row g-5">
-                    <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
+           
+                    <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                         <div class="rounded-top overflow-hidden">
                             <img class="img-fluid" src="assets/img/revansh/invisible_aligners.png" alt="">
                         </div>
@@ -258,7 +257,7 @@ include "./includes/header.php";
                             <h5 class="m-0"> <a href="invisible_aligners.php">Invisible Aligners</a></h5>
                         </div>
                     </div>
-                    <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
+                    <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
                         <div class="rounded-top overflow-hidden">
                             <img class="img-fluid" src="assets/img/revansh/teeth_whitening.png" alt="">
                         </div>
@@ -266,9 +265,17 @@ include "./includes/header.php";
                             <h5 class="m-0"> <a href="teeth_whitening.php"> Teeth Whitening</a> </h5>
                         </div>
                     </div>
+                    <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                    <div class="rounded-top overflow-hidden">
+                        <img class="img-fluid" src="assets/img/revansh/teeth_jewellery.png" alt="">
+                    </div>
+                    <div class="position-relative bg-light rounded-bottom text-center p-4">
+                        <h5 class="m-0"> <a href="teeth_jewellery.php"> Teeth Jewellery</a> </h5>
+                    </div>
                 </div>
+                <
             </div>
-            <div class="col-lg-5 service-item wow zoomIn service_content" data-wow-delay="0.9s">
+       
 
                 <!-- <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-4">
                         <h3 class="text-white mb-3">Make Appointment</h3>
@@ -277,20 +284,13 @@ include "./includes/header.php";
                     </div> -->
 
 
-                <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="assets/img/revansh/teeth_jewellery.png" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0"> <a href="teeth_jewellery.php"> Teeth Jewellery</a> </h5>
-                    </div>
-                </div>
-            </div>
+                
+           
         </div>
 
       </div></div>
       <div class="service_content">
-            <a href="service.php" class="btn btn-light py-3 px-5 service_view">View More</a>
+            <a href="service.php" class="btn btn-light py-3 px-5 service_view"> <i class="bi bi-arrow-right "></i>View More</a>
         </div>
 
     </div>

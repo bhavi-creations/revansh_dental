@@ -22,7 +22,7 @@
                     <a class="text-white"  href="dental_implants.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Dental Implants</a>
 
                     <a class="text-white" href="smile_designing.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Smile Designing</a>
-                    <a class="text-white" href="laser_treatment.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Laser Treatment</a>
+                    <a class="text-white" href="laser_treatment.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Laser Dental Treatment</a>
                     <a class="text-white" href="invisible_aligners.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Invisible Aligners</a>
                     <a class="text-white" href="teeth_whitening.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Teeth Whitening</a>
                     <a class="text-white" href="teeth_cleaning.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Teeth Cleaning</a>

@@ -83,8 +83,13 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0 my-2">
-    <a href="index.php" class="navbar-brand p-0">
-        <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1">
+    <a href="index.php" class="navbar-brand p-0 d-none d-md-block ">
+        <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1 ">
+    </a>
+
+
+    <a href="index.php" class="navbar-brand p-0 d-md-none ">
+        <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1 " style="width: 200px;">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
         <span class="navbar-toggler-icon"></span>
@@ -100,7 +105,7 @@
                 <div class="dropdown-menu rounded-0 m-0 header_nav" id="serviceDropdown">
                     <a href="dental_implants.php" class="dropdown-item">Dental Implants</a>
                     <a href="smile_designing.php" class="dropdown-item">Smile Designing</a>
-                    <a href="laser_treatment.php" class="dropdown-item">Laser Treatment</a>
+                    <a href="laser_treatment.php" class="dropdown-item">Laser Dental Treatment</a>
                     <a href="invisible_aligners.php" class="dropdown-item">Invisible Aligners</a>
                     <a href="teeth_whitening.php" class="dropdown-item">Teeth Whitening</a>
                     <a href="teeth_cleaning.php" class="dropdown-item">Teeth Cleaning</a>
