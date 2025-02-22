@@ -83,80 +83,66 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0 my-2">
-        <a href="index.php" class="navbar-brand p-0">
-            <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1">
-            <!-- <h1 class="m-0 text-primary"><i class="fa fa-tooth me-2"></i>DentCare</h1> -->
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto py-0">
-                <a href="index.php" class="nav-item nav-link">Home</a>
-                <a href="about.php" class="nav-item nav-link active">About</a>
-                <!-- <a href="service.php" class="nav-item nav-link">Service</a> -->
+    <a href="index.php" class="navbar-brand p-0">
+        <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav ms-auto py-0">
+            <a href="index.php" class="nav-item nav-link">Home</a>
+            <a href="about.php" class="nav-item nav-link active">About</a>
 
-                <div class="nav-item dropdown">
-                            <a href="service.php" class="nav-link dropdown-toggle">service</a>
-                            <div class="dropdown-menu rounded-0 m-0 header_nav">
-                            <a href="dental_implants.php" class="dropdown-item">Dental Implants</a>  
-
-                            <a href="smile_designing.php" class="dropdown-item">Smile Designing</a>  
-
-                            <a href="laser_treatment.php" class="dropdown-item">Laser Treatment</a>
-
-                            <a href="invisible_aligners.php" class="dropdown-item">Invisible Aligners</a>
-
-                            <a href="teeth_whitening.php" class="dropdown-item">Teeth Whitening </a>
-
-                            <a href="teeth_cleaning.php" class="dropdown-item">Teeth Cleaning</a>
-
-                            <a href="teeth_jewellery.php" class="dropdown-item">Teeth Jewellery</a>
-
-                            <a href="root_canal.php" class="dropdown-item">Root Canal</a>
-
-
-
-
-
-<!-- 
-                                <a href="dental-brides.php" class="dropdown-item">Dental-Bridges</a>
-                                <a href="teeth.php" class="dropdown-item">Teeth Whitening</a>  
-                                <a href="root-canal.php" class="dropdown-item">Root Canal</a> -->
-                            </div>
-                        </div>
-                        <!-- <a href="testimonial.php" class="nav-item nav-link">Testimonial</a> -->
-                        <a href="blogs.php" class="nav-item nav-link">Blogs</a>
-                <!-- <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                    <a href="service.php" class="nav-link dropdown-toggle"  data-bs-toggle="dropdown">Service</a>
-
-                    <div class="dropdown-menu m-0">
-                        <a href="price.php" class="dropdown-item">Pricing Plan</a>
-                        <a href="team.php" class="dropdown-item">Our Dentist</a>
-                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                        <a href="appointment.php" class="dropdown-item">Appointment</a>
-                    </div>
-                </div> -->
-
-
-
-
-
-
-
-                <!-- <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                    <div class="dropdown-menu m-0">
-                        <a href="price.php" class="dropdown-item">Pricing Plan</a>
-                        <a href="team.php" class="dropdown-item">Our Dentist</a>
-                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                        <a href="appointment.php" class="dropdown-item">Appointment</a>
-                    </div>
-                </div> -->
-                <a href="contact.php" class="nav-item nav-link">Contact</a>
+            <!-- Service Dropdown -->
+            <div class="nav-item dropdown">
+                <a href="service.php" class="nav-link dropdown-toggle" id="serviceMenu">Service</a>
+                <div class="dropdown-menu rounded-0 m-0 header_nav" id="serviceDropdown">
+                    <a href="dental_implants.php" class="dropdown-item">Dental Implants</a>
+                    <a href="smile_designing.php" class="dropdown-item">Smile Designing</a>
+                    <a href="laser_treatment.php" class="dropdown-item">Laser Treatment</a>
+                    <a href="invisible_aligners.php" class="dropdown-item">Invisible Aligners</a>
+                    <a href="teeth_whitening.php" class="dropdown-item">Teeth Whitening</a>
+                    <a href="teeth_cleaning.php" class="dropdown-item">Teeth Cleaning</a>
+                    <a href="teeth_jewellery.php" class="dropdown-item">Teeth Jewellery</a>
+                    <a href="root_canal.php" class="dropdown-item">Root Canal</a>
+                </div>
             </div>
-            <!-- <button type="button" class="btn text-dark" data-bs-toggle="modal" data-bs-target="#searchModal"></button> -->
-            <a href="appointment.php" class="btn btn-primary py-2 px-4 ms-3">Appointment</a>
+
+            <a href="blogs.php" class="nav-item nav-link">Blogs</a>
+            <a href="contact.php" class="nav-item nav-link">Contact</a>
         </div>
-    </nav>
+
+        <a href="appointment.php" class="btn btn-primary py-2 px-4 ms-3">Appointment</a>
+    </div>
+</nav>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Get elements
+    const serviceMenu = document.getElementById("serviceMenu");
+    const serviceDropdown = document.getElementById("serviceDropdown");
+
+    // Check for small screen size
+    function isMobileView() {
+        return window.innerWidth <= 991;
+    }
+
+    // Toggle dropdown on click in mobile view
+    serviceMenu.addEventListener("click", function (event) {
+        if (isMobileView()) {
+            event.preventDefault(); // Prevent default link behavior
+            serviceDropdown.classList.toggle("show"); // Toggle dropdown visibility
+        }
+    });
+
+    // Close the dropdown when clicking outside
+    document.addEventListener("click", function (event) {
+        if (!serviceMenu.contains(event.target) && !serviceDropdown.contains(event.target)) {
+            serviceDropdown.classList.remove("show");
+        }
+    });
+});
+</script>
+

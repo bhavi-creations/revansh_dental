@@ -22,8 +22,7 @@ $conn->close();
 ?>
 
 
-
-<?php include 'include/header.php'; ?>
+<?php include 'includes/header.php'; ?>
 <main>
         <!-- ======= Blogs Section ======= -->
         <!-- <div class="page-header bg-more-light tittle-image">
@@ -122,7 +121,7 @@ $conn->close();
 
     </main>
     <!-- ======= Footer ======= -->
-    <?php include ('./footer.php'); ?>
+    <?php include 'includes/footer.php'; ?>
 
 </body>
 
