@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Vision Dental - Dashboard</title>
+    <title>Srinivasa Dental - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -67,30 +67,16 @@
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Root Canal">Root Canal</option>
-                                                <option value="Teeth Braces">Teeth Braces</option>
-                                                <option value="Pediatric Dentist">Pediatric Dentist</option>
-                                                <option value="Paedodontist Doctors">Paedodontist Doctors </option>     
-                                                <option value="Clear Aligners">Clear Aligners</option>
-                                                <option value="Laminate Veneers">Laminate Veneers</option>
-                                                <option value="Crown Bridge">Crown & Bridge</option>
                                                 <option value="Dental Implants">Dental Implants</option>
-                                                <option value="Dentures Treatment">Dentures</option>
-                                                <option value="Invisalign">Invisalign </option>
-                                                <option value="Jaw Corrective">Jaw Corrective</option>
-                                                <option value="Laser Gum">Laser & Gum</option>
+
                                                 <option value="Smile Designing">Smile Designing</option>
-                                                <option value="Smile Makeover">Smile Makeover</option>
-                                                <option value="Teeth Alignment">Teeth Alignment</option>
-                                                <option value="Tooth Extraction">Tooth Extraction</option>
-                                                <option value="Tooth Cleaning">Teeth Cleaning</option>
-                                                <option value="Gum Depigment">Gum Depigment</option>
+                                                <option value="Laser Treatment">Laser Treatment</option>
+                                                <option value="Invisible Aligners">Invisible Aligners</option>
                                                 <option value="Teeth Whitening">Teeth Whitening</option>
-                                                <option value="Laser Gum Surgery">Laser Gum Surgery </option>
-                                                <option value="Mouth Ulcers">Mouth Ulcers </option> 
-                                                <option value="Precancerous Lesion">Precancerous Lesion</option>
-                                                <option value="Laser Crown Lengthening">Laser Crown Lengthening</option>
-                                               
+                                                <option value="Teeth Cleaning">Teeth Cleaning</option>
+                                                <option value="Teeth Jewellery">Teeth Jewellery</option>
+                                                <option value="Root Canal">Root Canal</option>
+
                                             </select>
                                         </div>
 
@@ -250,7 +236,7 @@
                     <div class="container my-auto">
                         <div class="copyright text-center my-auto">
                             <div class="footer-widget__copyright">
-                                <p class="mini_text" style="color:black"> ©2024 Vision Dental . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
+                                <p class="mini_text" style="color:black"> ©2024 Srinivasa Dental . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
                             </div>
                         </div>
                     </div>

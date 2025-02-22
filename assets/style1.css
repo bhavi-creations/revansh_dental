@@ -1,19 +1,23 @@
-src: url("https://mdn.github.io/shared-assets/fonts/variable-fonts/MutatorSans.ttf");
+/* src: url("https://mdn.github.io/shared-assets/fonts/variable-fonts/MutatorSans.ttf"); */
 
   
-   .first_nav{
+   /* .first_nav{ */
    /* background: linear-gradient(to top,red,orange);
      background: linear-gradient(to top,#c97bee,#dcb4ee,); */
 
    /* background-color:  #dcb4ee; */
    /* color: rgb(87, 86, 86); */
    
-   }
+   /* } == */
    .first_nav{
-    background: linear-gradient(to  right,#A201EA,#ffffff);
+    background: linear-gradient(to  right,#0065b5
+
+    ,#ffffff);
    }
    .top-shape{
-    background: linear-gradient(to right,#A201EA,#C5A4F2); 
+    background: linear-gradient(to right,#0065b5
+
+,#C5A4F2); 
    }
 .content-cert{   
    font-family: 'Jost', sans-serif !important;

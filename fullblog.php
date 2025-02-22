@@ -22,11 +22,9 @@ $conn->close();
 ?>
 
 
-<?php include('./includes/header.php'); ?>
 
- 
-
-    <main>
+<?php include 'include/header.php'; ?>
+<main>
         <!-- ======= Blogs Section ======= -->
         <!-- <div class="page-header bg-more-light tittle-image">
             <?php
@@ -41,35 +39,35 @@ $conn->close();
 
         <div class="container blog-detailed blog-detailed-sidebar" style="padding-bottom: 0px;padding-top: 50px;">
             <div class="row">
-                <div class="col-lg-8 offset-lg-0 col-sm-8 offset-sm-2 col-10 offset-1 order-lg-1">
-                    <div class="blog-content">
-                        <h4 class="blog-title tittle ls-n-20" style="color: #283779; font-weight:800"><?php echo htmlspecialchars($title); ?></h4>
+            <div class="col-lg-8 offset-lg-0 col-sm-8 offset-sm-2 col-10 offset-1 order-lg-1">
+    <div class="blog-content">
+        <h4 class="blog-title tittle ls-n-20" style="color: #283779; font-weight:800"><?php echo htmlspecialchars($title); ?></h4>
 
-                        <p class="main-content" style="text-align: justify;">
-                            <?php echo $main_content; ?>
-                        </p>
+        <p class="main-content" style="text-align: justify;">
+            <?php echo $main_content; ?>
+        </p>
 
-                        <?php
-                        // Check if video is available
-                        if (!empty($video)) {
-                            $video_path = "./admin/uploads/videos/{$video}";
-                            echo "<video class='main-video img-fluid' controls>
+        <?php
+        // Check if video is available
+        if (!empty($video)) {
+            $video_path = "./admin/uploads/videos/{$video}";
+            echo "<video class='main-video img-fluid' controls>
                     <source src='{$video_path}' type='video/mp4'>
                     Your browser does not support the video tag.
                   </video>";
-                        }
-                        // If no video, display the image
-                        elseif (!empty($main_image)) {
-                            $main_image_path = "./admin/uploads/photos/{$main_image}";
-                            echo "<img class='main-image img-fluid blog_main_img' src='{$main_image_path}'  alt='Main Image'>";
-                        }
-                        ?>
+        }
+        // If no video, display the image
+        elseif (!empty($main_image)) {
+            $main_image_path = "./admin/uploads/photos/{$main_image}";
+            echo "<img class='main-image img-fluid blog_main_img' src='{$main_image_path}'  alt='Main Image'>";
+        }
+        ?>
 
-                        <div class="full-content">
-                            <?php echo $full_content; ?>
-                        </div>
-                    </div>
-                </div>
+        <div class="full-content">
+            <?php echo $full_content; ?>
+        </div>
+    </div>
+</div>
 
 
 
@@ -123,10 +121,9 @@ $conn->close();
         </div>
 
     </main>
+    <!-- ======= Footer ======= -->
+    <?php include ('./footer.php'); ?>
 
+</body>
 
-    <?php include('includes/footer.php'); ?>
-
-
-  
- 
+</html>

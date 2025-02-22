@@ -37,7 +37,8 @@ h6,
 .btn-secondary {
     color: #FFFFFF;
     /* font-weight: 600; */
-    background: linear-gradient(to right,#A201EA,#c93ff3 ,#C5A4F2); 
+    background: linear-gradient(to right,#0967b5
+    ,#0967b5 ,#86b7dc); 
     /* background: linear-gradient(to right,#A201EA,#b157db,#C5A4F2);  */
 }
 
@@ -117,7 +118,7 @@ justify-content: center;
     top: 0;
     left: -17px;
     /* background: var(--primary); */
-    background:#dbadec;
+    background:#0065b5    ;
     transform: skew(40deg);
    
 }
@@ -138,7 +139,9 @@ justify-content: center;
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
     /* color: var(--primary); */
-    color: #a948ef;
+    color: #0967b5
+
+    ;
 }
 
 @media (max-width: 991.98px) {
@@ -224,13 +227,13 @@ justify-content: center;
 
 }
 
-.appointment-form {
+/* .appointment-form { */
     /* background: rgba(6, 163, 218, .7); */
     /* background: #b28de6; */
     /* background: linear-gradient(to right,#A201EA,#865396 ,#C5A4F2);  */
     /* opacity: .60 !important; */
 
-}
+/* } */
 
 .service-item img,
 .service-item .bg-light,
@@ -271,7 +274,7 @@ justify-content: center;
 .offer-text {
     /* background: rgba(6, 163, 218, .85); */
     /* background: linear-gradient(to bottom,#A201EA,#C5A4F2);  */
-    background-image: linear-gradient(to right top, #a201ea, #a948ef, #b16bf2, #ba88f3, #c5a4f2);
+    background-image: linear-gradient(to right top,#0967b5, #448ccc, #3d8cc4, #448ccc, #0967b5);
 }
 
 .price-carousel .owl-nav {

@@ -42,7 +42,7 @@
 
 <body>
     <!-- Spinner Start -->
-    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <!-- <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-grow text-primary m-1" role="status">
             <span class="sr-only">Loading...</span>
         </div>
@@ -52,7 +52,7 @@
         <div class="spinner-grow text-secondary m-1" role="status">
             <span class="sr-only">Loading...</span>
         </div>
-    </div>
+    </div> -->
     <!-- Spinner End -->
 
 
@@ -82,7 +82,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
         <a href="index.php" class="navbar-brand p-0">
-            <img src="assets/img/logo.png" alt="" class="img-fluid my-1" style="width: 100px; height:100px;">
+            <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1" style="width: 300px; height:100px;">
             <!-- <h1 class="m-0 text-primary"><i class="fa fa-tooth me-2"></i>DentCare</h1> -->
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -97,15 +97,30 @@
                 <div class="nav-item dropdown">
                             <a href="service.php" class="nav-link dropdown-toggle">service</a>
                             <div class="dropdown-menu rounded-0 m-0 header_nav">
-                                  <a href="cosmetic.php" class="dropdown-item">Cosmatic dentistry</a>
+                            <a href="dental-implants.php" class="dropdown-item">Dental Implants</a>  
 
+                            <a href="smile_designing.php" class="dropdown-item">Smile Designing</a>  
+
+                            <a href="laser_treatment.php" class="dropdown-item">Laser Treatment</a>
+
+                            <a href="invisible_aligners.php" class="dropdown-item">Invisible Aligners</a>
+
+                            <a href="teeth_whitening.php" class="dropdown-item">Teeth Whitening </a>
+
+                            <a href="teeth_cleaning.php" class="dropdown-item">Teeth Cleaning</a>
+
+                            <a href="teeth_jewellery.php" class="dropdown-item">Teeth Jewellery</a>
+
+                            <a href="root_canal.php" class="dropdown-item">Root Canal</a>
+
+
+
+
+
+<!-- 
                                 <a href="dental-brides.php" class="dropdown-item">Dental-Bridges</a>
-                                <a href="dental-implants.php" class="dropdown-item">Dental Implants</a>  
                                 <a href="teeth.php" class="dropdown-item">Teeth Whitening</a>  
-                                <a href="root-canal.php" class="dropdown-item">Root Canal</a>
-                                <!-- <a href="dental.php" class="dropdown-item">Root Canal</a>  
-                                <a href="teeth.php" class="dropdown-item">teeth whitening</a>   -->
-                                <!-- <a href=".php" class="dropdown-item">Eden Gardens</a>   -->
+                                <a href="root-canal.php" class="dropdown-item">Root Canal</a> -->
                             </div>
                         </div>
                         <a href="testimonial.php" class="nav-item nav-link">Testimonial</a>

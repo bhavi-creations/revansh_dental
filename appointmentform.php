@@ -7,12 +7,13 @@ require 'vendor/autoload.php'; // Adjust the path to autoload.php based on your 
 // Check if the form is submitted
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Assign POST data to variables
-    $name = $_POST['appointment name'] ?? '';
-    $phone = $_POST['appointment mail'] ?? '';
-    $email = $_POST['appointment date'] ?? '';
+    $name = $_POST['name'] ?? '';
+    $phone = $_POST['phone'] ?? '';
+    $email = $_POST['email'] ?? '';
+    $date = $_POST['date'] ?? '';
+    $department = $_POST['department'] ?? '';
     
-  
-    $message = $_POST['appointment time'] ?? '';
+    $message = $_POST['message'] ?? '';
 
 
     echo $name;
@@ -24,14 +25,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'sairampenkey09@gmail.com'; // Your Gmail email address
-        $mail->Password = 'shvubaorkaeviigk'; // Your Gmail password
+        $mail->Username = 'srinivasadentalkakinada@gmail.com'; // Your Gmail email address
+        $mail->Password = 'lumirnmjktdfyqtr'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('sairampenkey09@gmail.com', 'ratnakar constructions'); // Your Gmail email and name
-        $mail->addAddress('sairampenkey09@gmail.com', 'ratnakar constructions'); // Recipient's email and name
+        $mail->setFrom('srinivasadentalkakinada@gmail.com', 'srinivasadentalkakinada.com'); // Your Gmail email and name
+        $mail->addAddress('srinivasadentalkakinada@gmail.com', 'srinivasadentalkakinada.com'); // Recipient's email and name
 
 // Content
         $mail->isHTML(true);
@@ -39,12 +40,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Body = "
    
             <h1>New Appointment</h1>
-            <p><strong>appointment name:</strong> $name</p>
-            <p><strong>appointment mail:</strong> $phone</p>
-            <p><strong>appointment date:</strong> $email</p>
-         
-        
-            <p><strong>appointment time:</strong>$message</p>
+            <p><strong>Name:</strong> $name</p>
+            <p><strong>Phone:</strong> $phone</p>
+            <p><strong>Email:</strong> $email</p>
+            <p><strong>Date:</strong> $date</p>
+            <p><strong>Department:</strong> $department</p>
+            <p><strong>Message:</strong>$message</p>
         ";
 
         $mail->send();

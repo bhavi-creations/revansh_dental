@@ -5,13 +5,13 @@ $servername = "localhost";
 if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $username = "root";
     $password = "";
-    $dbname = "sastry";
+    $dbname = "srinivasa";
 } else {
-    $username = "";
-    $password = "";
-    $dbname = "";
-    
+    $username = "srinivasadentalkakinada";
+    $password = "sTNcxCDh5cdERAZ";
+    $dbname = "srinivasadentalkakinada";
 }
+ 
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
