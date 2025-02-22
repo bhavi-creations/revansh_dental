@@ -290,7 +290,7 @@ include "./includes/header.php";
 
       </div></div>
       <div class="service_content">
-            <a href="service.php" class="btn btn-light py-3 px-5 service_view"> <i class="bi bi-arrow-right "></i>View More</a>
+            <a href="service.php" class="btn btn-light py-3 px-5 service_view"> </i>View More</a>
         </div>
 
     </div>
@@ -574,7 +574,7 @@ include "./includes/header.php";
 
             <div class="d-flex flex-row justify-content-center mt-4">
                 <a href="blogs.php" style="text-decoration: none;">
-                    <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
+                    <p class="view_more_btn d-md-none">View More<i class="bi bi-arrow-right "></i></p>
                 </a>
             </div>
 

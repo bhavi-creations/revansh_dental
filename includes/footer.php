@@ -95,7 +95,7 @@
                     target="_blank"
                     style="
                       text-decoration: none;
-                      color:black;
+                      color:white;
                       display: flex;
                       align-items: center;
                     ">
