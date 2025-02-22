@@ -10,7 +10,7 @@
   Laser Dental Treatment 
     </h1>
     <p>
-    Laser dental treatment is a modern, minimally invasive procedure used for various dental concerns, including gum reshaping, teeth whitening, and treating infections with precision and comfort.
+    Laser flap surgery is a modern, minimally invasive procedure for treating advanced gum disease. Using laser technology, dentists remove infected gum tissue, promote healing, and regenerate healthy gums with precision. This technique reduces pain, bleeding, and recovery time compared to traditional gum surgery. It effectively treats deep gum pockets, preventing tooth loss and improving oral health. Laser flap surgery offers a faster, safer, and more comfortable solution for patients suffering from periodontal disease.  
 
 </p>
   </div>

@@ -11,7 +11,7 @@
             Teeth whitening
         </h1>
         <p>
-            Teeth whitening is a cosmetic procedure that removes stains and discoloration, giving you a brighter, whiter smile in a safe and effective way.
+        Teeth whitening is a safe and effective cosmetic procedure that removes stains and discoloration, giving you a brighter smile. Using professional-grade bleaching agents, dentists lighten teeth several shades in just one session. This treatment is ideal for removing stains from coffee, tea, smoking, and aging. Whether done in-office or with take-home kits, teeth whitening enhances confidence and oral aesthetics. With long-lasting results and minimal sensitivity, it’s a quick and non-invasive way to achieve a radiant smile.  
 
         </p>
     </div>

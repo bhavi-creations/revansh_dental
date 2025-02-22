@@ -9,8 +9,8 @@
   Smile Designing
     </h1>
     <p>
-    Smile designing is a cosmetic dental procedure that enhances the appearance of teeth and gums through personalized treatments, creating a well-balanced and attractive smile.
- </p>
+    Smile designing is a customized cosmetic dental procedure that enhances the beauty of your smile. Using advanced techniques like veneers, teeth whitening, and gum contouring, dentists create a harmonious and attractive smile. This treatment addresses concerns like stained, chipped, misaligned, or uneven teeth, improving both function and aesthetics. A well-designed smile boosts confidence and leaves a lasting impression. Whether you seek a subtle enhancement or a complete transformation, smile designing helps achieve your dream smile with precision and artistry.  
+    </p>
   </div>
 </section>
 

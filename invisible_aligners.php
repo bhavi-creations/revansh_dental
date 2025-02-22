@@ -10,8 +10,7 @@
             Invisible aligners
         </h1>
         <p>
-            Invisible aligners are a modern orthodontic solution that straightens teeth discreetly using custom-made, transparent trays. They are comfortable, removable, and provide an effective alternative to traditional braces.
-
+        Invisible aligners are a discreet and comfortable alternative to traditional braces. These custom-made, clear plastic trays gradually straighten misaligned teeth without the hassle of metal wires. Ideal for both teens and adults, aligners are removable, allowing easy eating and oral hygiene. The treatment is tailored to your dental structure, ensuring effective and predictable results. With minimal discomfort and a nearly invisible appearance, invisible aligners provide a seamless orthodontic experience. Achieve a straighter, healthier smile with this advanced and convenient teeth-straightening solution.
 
         </p>
     </div>

@@ -8192,12 +8192,12 @@ fieldset:disabled .btn {
     font-size: 1rem !important
 }
 
-.fst-italic {
+.fst-italic1 {
     font-style: italic !important
 }
 
 .fst-normal {
-    font-style: normal !important
+    font-style: normal !important\\
 }
 
 .fw-light {

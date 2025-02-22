@@ -10,7 +10,14 @@
         Teeth Jewellery
         </h1>
         <p>
-        Teeth jewellery is a cosmetic dental procedure that involves attaching small decorative gems or crystals to the tooth surface, enhancing your smile with a touch of glamour.
+        Teeth jewellery is a trendy and painless cosmetic enhancement that adds a touch of sparkle to your smile. Small gems or crystals are safely bonded to the tooth’s surface without damage. This non-invasive and temporary procedure can be easily removed or replaced as desired. Perfect for special occasions or making a unique style statement, teeth jewellery is a fun and safe way to express your personality! ✨🦷
+
+
+
+
+
+
+
 
 
 

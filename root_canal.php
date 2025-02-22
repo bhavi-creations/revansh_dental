@@ -10,7 +10,7 @@
   Root Canal
     </h1>
     <p>
-    Root canal treatment is a pain-relieving procedure that removes infection from the tooth’s pulp, preserving the natural tooth and preventing extraction.
+    A root canal is a highly effective procedure to save a severely decayed or infected tooth. The treatment involves removing infected pulp, cleaning the canal, and sealing it with a protective filling. Modern techniques make root canals virtually painless, preserving natural teeth and preventing extraction. With proper care, a treated tooth can last a lifetime. This procedure relieves pain, restores function, and prevents further dental issues, ensuring a healthy and strong smile.  
 
 </p>
   </div>

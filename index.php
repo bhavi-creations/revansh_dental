@@ -139,6 +139,14 @@ include "./includes/header.php";
                                 <div class="col-12 col-sm-6">
                                     <input type="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
                                 </div>
+
+                                <div class="col-12 col-sm-6">
+                                    <input type="text" class="form-control bg-light border-0" placeholder="Contact" style="height: 55px;">
+                                </div>
+
+
+
+
                                 <div class="col-12 col-sm-6">
                                     <div class="date" id="date1" data-target-input="nearest">
                                         <input type="text"
@@ -146,6 +154,16 @@ include "./includes/header.php";
                                             placeholder="Appointment Date" data-target="#date1" data-toggle="datetimepicker" style="height: 55px;">
                                     </div>
                                 </div>
+
+                                
+
+
+
+
+
+
+
+                                
                                 <div class="col-12 col-sm-6">
                                     <div class="time" id="time1" data-target-input="nearest">
                                         <input type="text"
