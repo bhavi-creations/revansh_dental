@@ -3090,7 +3090,7 @@ fieldset:disabled .btn {
     color: #000;
     /* background-color: #2bb1e0; */
     /* border-color: #db89e2 */
-    border-color: #db09ee
+    /* border-color: #db09ee */
 }
 
 .btn-check:focus+.btn-primary,

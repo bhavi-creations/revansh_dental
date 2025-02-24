@@ -394,13 +394,45 @@ gap:400px;
 padding-top: 20px;
 padding-bottom: 40px;
 }
-.service_view{
-  background: linear-gradient(to right, #0967b5, #0967b5, #86b7dc);
-}
+
+
+
 
 @media (max-width:767px) {
 .header_logo{
   width: 200px;
 }
   
+}
+
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+/* Add padding to all service links */
+.footer_services a {
+ padding-bottom: 10px; /* Adjust as needed */
+  /* display: block; Ensures full clickable area/ */
+}
+
+
+
+.service_content_view{
+  text-align: center;
+  /* padding-top: 10px;
+  padding-bottom: 10px; */
+  border-radius: 10px;
+  /* width: 10px; */
+}
+
+.service_view{
+  background: linear-gradient(to right, #0967b5, #0967b5, #86b7dc);
+  text-align: center;
+ 
+  border-radius: 10px;
 }

@@ -85,7 +85,7 @@ include "./includes/header.php";
                         <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Professional Staff</h5>
                     </div>
                     <div class="col-sm-6 wow zoomIn" data-wow-delay="0.6s">
-                        <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>24/7 Opened</h5>
+                        <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>experienced team</h5>
                         <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Fair Prices</h5>
                     </div>
                 </div>
@@ -273,7 +273,7 @@ include "./includes/header.php";
                         <h5 class="m-0"> <a href="teeth_jewellery.php"> Teeth Jewellery</a> </h5>
                     </div>
                 </div>
-                <
+              
             </div>
        
 
@@ -289,8 +289,8 @@ include "./includes/header.php";
         </div>
 
       </div></div>
-      <div class="service_content">
-            <a href="service.php" class="btn btn-light py-3 px-5 service_view"> </i>View More</a>
+      <div class="service_content_view ">
+            <a href="service.php" class="btn text-white py-3 px-5 service_view zoomIn"> </i>View More</a>
         </div>
 
     </div>
@@ -567,8 +567,8 @@ include "./includes/header.php";
 
             <div class="mt-5 d-none d-md-block">
                 <a href="blogs.php" style="text-decoration: none;">
-                    <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
-                            class="fa-solid fa-arrow-right mt-1"></i></p>
+                    <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More &nbsp;&nbsp;<i class="bi bi-arrow-right text-primary me-2"></i>
+                        </p>
                 </a>
             </div>
 

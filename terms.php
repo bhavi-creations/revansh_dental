@@ -4,9 +4,9 @@ include "./includes/header.php";
    
 
 
-   <div class="container mt-3">
-   <h1>Terms and Conditions</h1>
-<p>Last updated: January 18, 2025</p>
+<div class="container pt-5">
+<h1>Terms and Conditions</h1>
+<p>Last updated: February 24, 2025</p>
 <p>Please read these terms and conditions carefully before using Our Service.</p>
 <h2>Interpretation and Definitions</h2>
 <h3>Interpretation</h3>
@@ -21,7 +21,7 @@ include "./includes/header.php";
 <p><strong>Country</strong> refers to: Andhra Pradesh,  India</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to dentcare.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Revansh Dental hospital .</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -36,7 +36,7 @@ include "./includes/header.php";
 <p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
 </li>
 <li>
-<p><strong>Website</strong> refers to dentcare, accessible from <a href="http://localhost/dentcare-1.0.0/index.php" rel="external nofollow noopener" target="_blank">http://localhost/dentcare-1.0.0/index.php</a></p>
+<p><strong>Website</strong> refers to Revansh Dental hospital , accessible from <a href="http://localhost/revansh_dental/teeth_jewellery.php" rel="external nofollow noopener" target="_blank">http://localhost/revansh_dental/teeth_jewellery.php</a></p>
 </li>
 <li>
 <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
@@ -85,9 +85,9 @@ You agree that the original English text shall prevail in the case of a dispute.
 <h2>Contact Us</h2>
 <p>If you have any questions about these Terms and Conditions, You can contact us:</p>
 <ul>
-<li>By visiting this page on our website: <a href="http://localhost/dentcare-1.0.0/index.php" rel="external nofollow noopener" target="_blank">http://localhost/dentcare-1.0.0/index.php</a></li>
+<li>By visiting this page on our website: <a href="http://localhost/revansh_dental/index.php" rel="external nofollow noopener" target="_blank">http://localhost/revansh_dental/index.php</a></li>
 </ul>
-   </div>
+</div>
     <?php
     include "./includes/footer.php";
     ?>

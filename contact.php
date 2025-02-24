@@ -73,17 +73,17 @@
                 <div class="col-xl-6 col-lg-6 wow slideInUp" data-wow-delay="0.3s">
                     <form action="contactform.php" method="post" role="form" class="php-email-form">
                         <div class="row g-3">
-                            <div class="col-12">
-                                <input type="text" name="contactname"  class="form-control border-0 bg-light px-4" placeholder="Your Name" style="height: 55px;">
+                            <div class="col-6">
+                                <input type="text" name="name"  class="form-control border-0 bg-light px-4" placeholder="Your Name" style="height: 55px;">
+                            </div>
+                            <div class="col-6">
+                                <input type="email" name="email" class="form-control border-0 bg-light px-4" placeholder="Your Email" style="height: 55px;">
                             </div>
                             <div class="col-12">
-                                <input type="email" name="contactemail" class="form-control border-0 bg-light px-4" placeholder="Your Email" style="height: 55px;">
+                                <input type="number" name="number"  class="form-control border-0 bg-light px-4" placeholder="number" style="height: 55px;">
                             </div>
                             <div class="col-12">
-                                <input type="text" name="contactsubject"  class="form-control border-0 bg-light px-4" placeholder="Subject" style="height: 55px;">
-                            </div>
-                            <div class="col-12">
-                                <textarea class="form-control border-0 bg-light px-4 py-3" name="contactmessage"  rows="5" placeholder="Message"></textarea>
+                                <textarea class="form-control border-0 bg-light px-4 py-3" name="meassage"  rows="5" placeholder="Message"></textarea>
                             </div>
                             <div class="col-12">
                                 <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>

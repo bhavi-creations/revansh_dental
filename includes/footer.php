@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-6 footer_image" >
                 <img src="./assets/img/logo/logo1.png" alt="" class="img-fluid ">
             </div>
-            <div class="col-lg-2 col-md-6">
+            <div class="col-lg-2 col-6 footer_services">
                 <h3 class="text-white ">Quick Links</h3>
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-light" href="index.php"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
@@ -16,7 +16,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-3 col-6 footer_services">
                 <h3 class="text-white ">Services</h3>
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-white"  href="dental_implants.php" class="dropdown-item"><i class="bi bi-arrow-right text-primary me-2"></i>Dental Implants</a>
@@ -33,10 +33,10 @@
 
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-3 col-md-6 footer_services">
                 <h3 class="text-white ">Get In Touch</h3>
                 <p class="mb-2"><i class="bi bi-geo-alt text-primary me-2"></i>Opposite Icici Bank,1st Floor,Above Jawed Habeeb,mangalagiri-Tenali Road,Mangalagiri-522503</p>
-                <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>info@example.com</p>
+                <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>revanshdentalphysiotherapy <br> @gmail.com</p>
                 <p class="mb-0"><i class="bi bi-telephone text-primary me-2"></i>+91-9493346026, 9666289499</p>
                 <div class="d-flex mt-3">
                     <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>

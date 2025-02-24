@@ -30,6 +30,7 @@ h6,
 .btn {
     font-family: 'Jost', sans-serif;
     font-weight: 600;
+    margin-bottom:20px;
     transition: .5s;
 }
 
@@ -104,7 +105,7 @@ justify-content: center;
 }
 
 .back-to-top {
-    position: fixed;
+    /* position: fixed; */
     display: none;
     right: 45px;
     bottom: 45px;
@@ -114,7 +115,7 @@ justify-content: center;
 .top-shape::before {
     position: absolute;
     content: "";
-    width: 35px;
+    width:45px;
     height: 100%;
     top: 0;
     left: -17px;
@@ -256,7 +257,7 @@ justify-content: center;
     left: 15px;
     right: 15px;
     border-radius:100px / 15px;
-    box-shadow: 0 0 15px rgb(195, 0, 255);
+    box-shadow: 0 0 15px #0065B5;
     opacity: 0;
     transition: .5s;
     z-index: -1;
@@ -349,7 +350,8 @@ justify-content: center;
     justify-content: center;
     color: #FFFFFF;
     /* background: var(--primary); */
-    background-color: #865396;
+    /* background-color: #865396; */
+    background: linear-gradient(to right, #0967b5, #0967b5, #86b7dc);
     border-radius: 2px;
     font-size: 22px;
     transition: .5s;

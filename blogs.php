@@ -45,7 +45,7 @@ $result = $stmt->get_result();
          <a href="blogs.php?service="><button class="redirect_blog_srivice">All</button></a>
         <a href="blogs.php?service=Root Canals"><button class="redirect_blog_srivice">Dental Implants</button></a>
         <a href="blogs.php?service=Smile Designing"><button class="redirect_blog_srivice">Smile Designing</button></a>
-        <a href="blogs.php?service=Laser Treatment"><button class="redirect_blog_srivice"> Laser Treatment</button></a>
+        <a href="blogs.php?service=Laser Dental Treatment"><button class="redirect_blog_srivice"> Laser Dental Treatment</button></a>
         <a href="blogs.php?service=Invisible Aligners"><button class="redirect_blog_srivice">Invisible Aligners </button></a>
         <a href="blogs.php?service=Teeth Whitening"><button class="redirect_blog_srivice"> Teeth Whitening</button></a>
         <a href="blogs.php?service=Teeth Cleaning"><button class="redirect_blog_srivice">Teeth Cleaning</button></a>
