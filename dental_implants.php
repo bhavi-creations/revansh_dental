@@ -4,7 +4,7 @@
 <img src="assets/img/service_image/9.png" alt=""  class="img-fluid">
 
 <section class="my-5 pt-2">
-  <div class="container">
+  <div class="container wow fadeInUp ">
   <h1>
         Dental implents
     </h1>
@@ -16,13 +16,13 @@
   </div>
 </section>
 
-<section class="section_color py-5">
+<section class="section_color py-5 ">
     <div class="container">
-        <h4 class="root_step text-center mb-5">Dental Implants
+        <h4 class="root_step text-center mb-5 wow zoomIn">Dental Implants
         </h4>
-        <p class="service_section">Advanced Dental Implants for a Healthy and Beautiful Smile</p>
+        <p class="service_section wow zoomIn">Advanced Dental Implants for a Healthy and Beautiful Smile</p>
         <div class="row my-3">
-            <div class="col-12 col-md-4  card-wrapper ">
+            <div class="col-12 col-md-4  card-wrapper wow slideInUp">
                 <div class="card">
                     <img src="assets/img/revansh/25.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step1</h4>
@@ -30,7 +30,7 @@
                     The dentist evaluates oral health using X-rays and scans, determining the best implant option based on jawbone strength.
                 </div>
             </div>
-            <div class="col-12 col-md-4  card-wrapper">
+            <div class="col-12 col-md-4  card-wrapper wow slideInUp">
                 <div class="card">
                     <img src="assets/img/revansh/26.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step2</h4>
@@ -40,7 +40,7 @@
 
                 </div>
             </div>
-            <div class="col-12 col-md-4  card-wrapper">
+            <div class="col-12 col-md-4  card-wrapper wow slideInUp">
                 <div class="card">
                     <img src="assets/img/revansh/27.png" alt="" class="img-fluid">
                     <h4 class="canal_step">Step3</h4>

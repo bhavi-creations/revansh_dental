@@ -54,7 +54,7 @@ include "./includes/header.php";
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Professional Staff</h5>
                         </div>
                         <div class="col-sm-6 wow zoomIn" data-wow-delay="0.6s">
-                            <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>24/7 Opened</h5>
+                            <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>experienced team</h5>
                             <h5 class="mb-3"><i class="fa fa-check-circle text-primary me-3"></i>Fair Prices</h5>
                         </div>
                     </div>

@@ -46,7 +46,7 @@ include "./includes/header.php";
                         <h5 class="text-white text-uppercase mb-3 animated slideInDown">Keep Your Teeth Healthy</h5>
                         <h1 class="display-1 text-white mb-md-4 animated zoomIn">Take The Best Quality Dental Treatment</h1>
                         <a href="appointment.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Appointment</a>
-                        <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                        <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@ include "./includes/header.php";
                                     <button class="btn btn-dark w-100 py-3" type="submit">Make Appointment</button>
                                 </div>
                             </div>
-                        </form>
+                        
                     </form>
                 </div>
             </div>
@@ -272,8 +272,10 @@ include "./includes/header.php";
         </div>
 
       </div></div>
-      <div class="service_content_view ">
-            <a href="service.php" class="btn text-white py-3 px-5 service_view zoomIn"> </i>View More</a>
+      <div class="service_content_view zoomIn ">
+
+            <a href="service.php" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">View More <i class="bi bi-arrow-right "></i></a>
+
         </div>
 
     </div>
@@ -291,8 +293,8 @@ include "./includes/header.php";
                     <p class="text-white mb-4"> we are committed to providing advanced, painless, and affordable dental care with a patient-first approach. Our experienced team of dentists specializes in cosmetic, restorative, and preventive dentistry, ensuring healthy and confident smiles for all.
 
                     </p>
-                    <a href="appointment.php" class="btn btn-dark py-3 px-5 me-3">Appointment</a>
-                    <a href="contact.php" class="btn btn-light py-3 px-5">Contact us</a>
+                    <!-- <a href="appointment.php" class="btn btn-dark py-3 px-5 me-3">Appointment</a>
+                    <a href="contact.php" class="btn btn-light py-3 px-5">Contact us</a> -->
                 </div>
             </div>
         </div>
@@ -431,13 +433,13 @@ include "./includes/header.php";
             <div class="col-lg-7">
                 <div class="owl-carousel testimonial-carousel rounded p-5 wow zoomIn" data-wow-delay="0.6s">
                     <div class="testimonial-item text-center text-white">
-                        <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-1.jpg" alt="">
+                        <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-11.png" alt="">
                         <p class="fs-5">Dolores sed duo clita justo dolor et stet lorem kasd dolore lorem ipsum. At lorem lorem magna ut et, nonumy labore diam erat. Erat dolor rebum sit ipsum.</p>
                         <hr class="mx-auto w-25">
                         <h4 class="text-white mb-0">Client Name</h4>
                     </div>
                     <div class="testimonial-item text-center text-white">
-                        <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-2.jpg" alt="">
+                        <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-22.png" alt="">
                         <p class="fs-5">Dolores sed duo clita justo dolor et stet lorem kasd dolore lorem ipsum. At lorem lorem magna ut et, nonumy labore diam erat. Erat dolor rebum sit ipsum.</p>
                         <hr class="mx-auto w-25">
                         <h4 class="text-white mb-0">Client Name</h4>

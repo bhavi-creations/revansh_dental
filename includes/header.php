@@ -82,7 +82,7 @@
                     <div class="me-3 pe-3 border-end py-2  text-white ">
                         <p class="m-0"><i class="fa fa-envelope-open me-2"></i>revanshdentalphysiotherapy@gmail.com</p>
                     </div>
-                    <div class="py-2  text-back ">
+                    <div class="py-2  text-white ">
                         <p class="m-0"><i class="fa fa-phone-alt me-2"></i>+9493346026</p>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
             <a href="contact.php" class="nav-item nav-link">Contact</a>
         </div>
 
-        <a href="appointment.php" class="btn btn-primary py-2 px-4 ms-3">Appointment</a>
+        <a href="appointment.php" class="btn btn-primary py-2 px-4 ms-3 mt-3">Appointment</a>
     </div>
 </nav>
 

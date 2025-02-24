@@ -121,14 +121,19 @@
     </div>
     <!-- Appointment End -->
 
-   <!-- <div class="col-12 wow slideInUp" data-wow-delay="0.6s">
-                    <iframe class="position-relative rounded w-100 h-100"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3827.056132815041!2d80.57860047632313!3d16.4219753175638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a0608a2bbbcdb%3A0xc420629817dfca92!2sTenali%20Mangalagiri%20Rd%2C%20Mangalagiri%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1740224438733!5m2!1sen!2sin"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
-                    frameborder="0" style="min-height: 400px; border:0;" allowfullscreen="" aria-hidden="false"
-                        tabindex="0"></iframe>
-                </div> -->
+   <!-- <div class="container wow slideInUp" data-wow-delay="0.6s">
+   <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30616.598239961408!2d80.58636234737176!3d16.421028089292626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sOpposite%20Icici%20Bank%2C1st%20Floor%2CAbove%20Jawed%20Habeeb%2Cmangalagiri-Tenali%20Road%2CMangalagiri-522503!5e0!3m2!1sen!2sin!4v1740397070608!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
     
+   </div> -->
 
+
+
+   <div class="col-12 wow slideInUp" data-wow-delay="0.6s">
+    <iframe class="position-relative rounded w-100 h-100"
+        src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30616.598239961408!2d80.58636234737176!3d16.421028089292626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sOpposite%20Icici%20Bank%2C1st%20Floor%2CAbove%20Jawed%20Habeeb%2Cmangalagiri-Tenali%20Road%2CMangalagiri-522503!5e0!3m2!1sen!2sin!4v1740397070608!5m2!1sen!2sin"
+        frameborder="0" style="min-height: 400px; border:0;" allowfullscreen="" aria-hidden="false"
+        tabindex="0"></iframe>
+</div>
     <!-- Newsletter Start -->
     <!-- <div class="container-fluid position-relative pt-5 wow fadeInUp" data-wow-delay="0.1s" style="z-index: 1;">
         <div class="container">
