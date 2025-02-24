@@ -21,6 +21,10 @@
     <div class="container">
         <h4 class="root_step text-center my-5"> Teeth whitening Treatment
         </h4>
+        <p class="service_section">
+            
+        Brighten Your Smile with Professional Teeth Whitening
+        </p>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">
                 <div class="card">

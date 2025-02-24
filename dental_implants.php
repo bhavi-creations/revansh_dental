@@ -18,8 +18,9 @@
 
 <section class="section_color py-5">
     <div class="container">
-        <h4 class="root_step text-center mb-5">Advanced Dental Implants for a Healthy and Beautiful Smile
+        <h4 class="root_step text-center mb-5">Dental Implants
         </h4>
+        <p class="service_section">Advanced Dental Implants for a Healthy and Beautiful Smile</p>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">
                 <div class="card">

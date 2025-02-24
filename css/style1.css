@@ -294,6 +294,7 @@ gap:400px;
 
   .section_color {
     background-color: rgb(241, 241, 241);
+
     text-align: center;
   }
   .root_step {
@@ -435,4 +436,12 @@ padding-bottom: 40px;
   text-align: center;
  
   border-radius: 10px;
+}
+
+
+.service_section{
+font-size: 20px;
+font-family: 900;
+margin-top: -40px;
+margin-bottom: 30px;
 }

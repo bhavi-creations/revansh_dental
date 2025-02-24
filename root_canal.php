@@ -20,6 +20,9 @@
     <div class="container">
         <h4 class="root_step text-center my-5">Root Canal
         </h4>
+        <p class="service_section">
+        Save Your Natural Tooth with a Painless Root Canal Treatment
+        </p>
         <div class="row my-3">
             <div class="col-12 col-md-4  card-wrapper ">
                 <div class="card">

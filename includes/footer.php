@@ -5,7 +5,7 @@
                 <img src="./assets/img/logo/logo1.png" alt="" class="img-fluid ">
             </div>
             <div class="col-lg-2 col-6 footer_services">
-                <h3 class="text-white ">Quick Links</h3>
+                <h3 class="text-white ">  Links</h3>
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-light" href="index.php"><i class="bi bi-arrow-right text-primary me-2"></i>Home</a>
                     <a class="text-light" href="about.php"><i class="bi bi-arrow-right text-primary me-2"></i>About Us</a>
@@ -70,7 +70,7 @@
         </div>
     </div>
 </div>
-<div class="container-fluid footer_terms">
+<div class="container-fluid footer_terms px-5">
     <div class="row ">
         <div class="col-md-6 col-12">
             <div class="footer-widget__copyright-info info-direction">
