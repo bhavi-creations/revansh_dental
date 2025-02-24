@@ -16,7 +16,7 @@
   </div>
 </section>
 
-<section class="section_color p">
+<section class="section_color py-5">
     <div class="container">
         <h4 class="root_step text-center mb-5">Advanced Dental Implants for a Healthy and Beautiful Smile
         </h4>
