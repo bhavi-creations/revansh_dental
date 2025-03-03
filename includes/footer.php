@@ -113,13 +113,17 @@
      
 
 
-<a href="https://api.whatsapp.com/send?phone=919493346026" style="color: #fff;" class="whatsapp-link"
+<!-- <a href="https://api.whatsapp.com/send?phone=919493346026" style="color: #fff;" class="whatsapp-link"
     target="_blank">
     <i class="fab fa-whatsapp"></i>
+</a> -->
+
+
+<!-- <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top side_arrow"><i class="bi bi-arrow-up"></i></a> -->
+
+<a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top side_arrow d-flex align-items-center justify-content-center">
+    <i class="bi bi-arrow-up"></i>
 </a>
-
-
-<a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top side_arrow"><i class="bi bi-arrow-up"></i></a>
 
 
 <!-- JavaScript Libraries -->
