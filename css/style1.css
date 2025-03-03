@@ -79,8 +79,8 @@ justify-content: center;
  
     position: fixed;
     display: none;
-    right: 30px;
-    bottom: 45px;
+    right: 35px;
+    bottom: 16px;
     z-index: 99;
 }
 .side_arrow i{

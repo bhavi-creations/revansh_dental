@@ -256,7 +256,7 @@
         .chat-icon {
             z-index: 9999;
             position: fixed;
-            bottom: 110px;
+            bottom: 80px;
             right: 20px;
             background: #4caf50;
             width: 60px;
@@ -342,15 +342,17 @@
                     addUserMessage(userChoice);
 
                     const serviceResponses = {
-                        "Dental implants": "🦷 Dental implants are permanent, natural-looking replacements for missing teeth, restoring function and aesthetics.    any information Call us 📞 +91-9493346026.  ",
-                        "Smile designing": "🦷 Smile designing is a cosmetic dental procedure that enhances the appearance of your smile through customized treatments..   any information Call us 📞 +91-9493346026. ",
-                        "Laser Dental Treatment": "🦷 Laser dental treatment offers a painless, precise, and minimally invasive solution for various dental procedures, ensuring faster healing and reduced discomfort.    any information Call us 📞 +91-9493346026. ",
-                        "Invisible aligners": "🦷 Invisible aligners are clear, removable trays that straighten teeth discreetly and comfortably without the need for traditional braces.    any information Call us 📞 +91-9493346026. ",
-                        "Teeth whitening": "🦷 Teeth whitening is a cosmetic procedure that removes stains and brightens teeth for a whiter, more radiant smile.    any information Call us 📞 +91-9493346026. ",
-                        "Teeth cleaning": "🦷Teeth cleaning is a professional dental procedure that removes plaque, tartar, and stains to maintain oral health and prevent gum disease.   any information Call us 📞 +91-9493346026. ",
-                        "Teeth jewellery": "🦷Teeth jewellery is a cosmetic dental accessory where small gems or crystals are bonded to the teeth for a stylish and unique smile enhancement.   any information Call us 📞 +91-9493346026. ",
-                        "root canal": "🦷A root canal is a dental procedure that treats infected or damaged tooth pulp, relieving pain and saving the natural tooth.   any information Call us 📞 +91-9493346026. ",
+                        "Dental implants": "🦷 Dental implants are permanent, natural-looking replacements for missing teeth, restoring function and aesthetics.Any information Call us 📞 +91-9493346026.",
+                        "Smile designing": "🦷 Smile designing is a cosmetic dental procedure that enhances the appearance of your smile through customized treatments.Any information Call us 📞 +91-9493346026.",
+                        "Laser Dental Treatment": "🦷 Laser dental treatment offers a painless, precise, and minimally invasive solution for various dental procedures, ensuring faster healing and reduced discomfort.Any information Call us 📞 +91-9493346026.",
+                        "Invisible aligners": "🦷 Invisible aligners are clear, removable trays that straighten teeth discreetly and comfortably without the need for traditional braces.Any information Call us 📞 +91-9493346026.",
+                        "Teeth whitening": "🦷 Teeth whitening is a cosmetic procedure that removes stains and brightens teeth for a whiter, more radiant smile.Any information Call us 📞 +91-9493346026.",
+                        "Teeth cleaning": "🦷 Teeth cleaning is a professional dental procedure that removes plaque, tartar, and stains to maintain oral health and prevent gum disease.Any information Call us 📞 +91-9493346026.",
+                        "Teeth jewellery": "🦷 Teeth jewellery is a cosmetic dental accessory where small gems or crystals are bonded to the teeth for a stylish and unique smile enhancement.Any information Call us 📞 +91-9493346026.",
+                        "root canal": "🦷 A root canal is a dental procedure that treats infected or damaged tooth pulp, relieving pain and saving the natural tooth.Any information Call us 📞 +91-9493346026."
                     };
+
+
 
                     setTimeout(() => {
                         addBotMessage(serviceResponses[select.value] || "I don't have information on that.");
@@ -386,6 +388,21 @@
             });
         });
     </script>
+
+
+<script>
+    function addBotMessage(message) {
+    let botMessage = document.createElement("div");
+    botMessage.className = "bot-message";
+
+    // Use innerHTML to correctly render HTML elements like <br>
+    botMessage.innerHTML = message;
+
+    chatBox.appendChild(botMessage);
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
+
+</script>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             let chatBox = document.getElementById("chat-box");
