@@ -96,6 +96,7 @@
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0 my-2">
         <a href="index.php" class="navbar-brand p-0 d-none d-md-block ">
             <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1 ">
+             
         </a>
 
 
@@ -271,7 +272,7 @@
 
         .chat-icon i {
        font-size: 40px;
-       color: #ffffff !important;
+       color: #ffffff !important    ;
         }
 
         

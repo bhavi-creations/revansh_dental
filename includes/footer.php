@@ -2,7 +2,9 @@
     <div class="container">
         <div class="row g-5 ">
             <div class="col-lg-4 col-md-6 footer_image" >
-                <img src="./assets/img/logo/logo1.png" alt="" class="img-fluid ">
+                <img src="assets/img\logo/logo_1.png" alt="" class="img-fluid ">
+                <!-- <img src="assets/img\logo/logo_1.png" alt="" class="img-fluid "> -->
+
             </div>
             <div class="col-lg-2 col-6 footer_services">
                 <h3 class="text-white ">  Links</h3>

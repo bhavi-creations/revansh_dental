@@ -82,9 +82,10 @@ include "./includes/header.php";
                         <div class="col-12">
                             <input type="number" name="number" class="form-control border-0 bg-light px-4" placeholder="number" style="height: 55px;">
                         </div>
-                        <div class="col-12">
-                            <textarea class="form-control border-0 bg-light px-4 py-3" name="meassage" rows="5" placeholder="Message"></textarea>
-                        </div>
+                        <div class="control-group">
+                                <textarea class="form-control" name="message" placeholder="Message" required="required" data-validation-required-message="Please enter your message"></textarea>
+                              
+                            </div>
                         <div class="col-12">
                             <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
                         </div>
