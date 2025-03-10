@@ -121,9 +121,12 @@
 
 <!-- <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top side_arrow"><i class="bi bi-arrow-up"></i></a> -->
 
-<a href="#" class="btn btn-lg btn-primary btn-lg-square rounded back-to-top side_arrow d-flex align-items-center justify-content-center">
-    <i class="bi bi-arrow-up"></i>
+<a href="#" class="btn btn-primary rounded-circle back-to-top d-flex align-items-center justify-content-center" style="width: 50px; height: 50px; position: fixed; bottom: 20px; right: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
+    <i class="bi bi-arrow-up" style="font-size: 24px;"></i>
 </a>
+
+<!-- Bootstrap Icons CDN (Make sure to include this in your HTML if not already) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
 
 
 <!-- JavaScript Libraries -->

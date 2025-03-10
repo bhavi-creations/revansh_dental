@@ -256,7 +256,7 @@
         .chat-icon {
             z-index: 9999;
             position: fixed;
-            bottom: 80px;
+            bottom: 90px;
             right: 20px;
             background: #4caf50;
             width: 60px;
@@ -269,14 +269,16 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
         }
 
-        .chat-icon img {
-            width: 40px;
-            height: 40px;
+        .chat-icon i {
+       font-size: 40px;
+       color: #ffffff !important;
         }
+
+        
     </style>
 
     <div class="chat-icon" id="chat-icon">
-        <img src="assets/img/icons/bot12.png" alt="Chat Icon">
+    <i class="fab fa-whatsapp"></i>
     </div>
 
     <div class="chat-container" id="chat-container">
@@ -342,14 +344,14 @@
                     addUserMessage(userChoice);
 
                     const serviceResponses = {
-                        "Dental implants": "🦷 Dental implants are permanent, natural-looking replacements for missing teeth, restoring function and aesthetics.Any information Call us 📞 +91-9493346026.",
-                        "Smile designing": "🦷 Smile designing is a cosmetic dental procedure that enhances the appearance of your smile through customized treatments.Any information Call us 📞 +91-9493346026.",
-                        "Laser Dental Treatment": "🦷 Laser dental treatment offers a painless, precise, and minimally invasive solution for various dental procedures, ensuring faster healing and reduced discomfort.Any information Call us 📞 +91-9493346026.",
-                        "Invisible aligners": "🦷 Invisible aligners are clear, removable trays that straighten teeth discreetly and comfortably without the need for traditional braces.Any information Call us 📞 +91-9493346026.",
-                        "Teeth whitening": "🦷 Teeth whitening is a cosmetic procedure that removes stains and brightens teeth for a whiter, more radiant smile.Any information Call us 📞 +91-9493346026.",
-                        "Teeth cleaning": "🦷 Teeth cleaning is a professional dental procedure that removes plaque, tartar, and stains to maintain oral health and prevent gum disease.Any information Call us 📞 +91-9493346026.",
-                        "Teeth jewellery": "🦷 Teeth jewellery is a cosmetic dental accessory where small gems or crystals are bonded to the teeth for a stylish and unique smile enhancement.Any information Call us 📞 +91-9493346026.",
-                        "root canal": "🦷 A root canal is a dental procedure that treats infected or damaged tooth pulp, relieving pain and saving the natural tooth.Any information Call us 📞 +91-9493346026."
+                        "Dental implants": "🦷 Dental implants are permanent, natural-looking replacements for missing teeth, restoring function and aesthetics.<br><br>Any information Call us 📞 +91-9493346026.",
+                        "Smile designing": "🦷 Smile designing is a cosmetic dental procedure that enhances the appearance of your smile through customized treatments.<br><br>Any information Call us 📞 +91-9493346026.",
+                        "Laser Dental Treatment": "🦷 Laser dental treatment offers a painless, precise, and minimally invasive solution for various dental procedures, ensuring faster healing and reduced discomfort.<br><br>Any information Call us 📞 +91-9493346026.",
+                        "Invisible aligners": "🦷 Invisible aligners are clear, removable trays that straighten teeth discreetly and comfortably without the need for traditional braces.<br><br>Any information Call us 📞 +91-9493346026.",
+                        "Teeth whitening": "🦷 Teeth whitening is a cosmetic procedure that removes stains and brightens teeth for a whiter, more radiant smile.<br><br>Any information Call us 📞 +91-9493346026.",
+                        "Teeth cleaning": "🦷 Teeth cleaning is a professional dental procedure that removes plaque, tartar, and stains to maintain oral health and prevent gum disease.<br><br>Any information Call us 📞 +91-9493346026.",
+                        "Teeth jewellery": "🦷 Teeth jewellery is a cosmetic dental accessory where small gems or crystals are bonded to the teeth for a stylish and unique smile enhancement.<br><br>Any information Call us 📞 +91-9493346026.",
+                        "root canal": "🦷 A root canal is a dental procedure that treats infected or damaged tooth pulp, relieving pain and saving the natural tooth.<br><br>Any information Call us 📞 +91-9493346026."
                     };
 
 
@@ -390,19 +392,7 @@
     </script>
 
 
-<script>
-    function addBotMessage(message) {
-    let botMessage = document.createElement("div");
-    botMessage.className = "bot-message";
-
-    // Use innerHTML to correctly render HTML elements like <br>
-    botMessage.innerHTML = message;
-
-    chatBox.appendChild(botMessage);
-    chatBox.scrollTop = chatBox.scrollHeight;
-}
-
-</script>
+<script></script>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             let chatBox = document.getElementById("chat-box");
