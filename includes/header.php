@@ -63,7 +63,7 @@ Oral hygiene consultation in Mangalagiri">
 
 
 
-    <script >
+    <!-- <script >
         {
  
         "@context" => "https://schema.org",
@@ -97,9 +97,46 @@ Oral hygiene consultation in Mangalagiri">
         ]
     }
     
-    </script>
+    </script> -->
 
 
+
+
+    <?php  
+    $schema = [
+        "@context" => "https://schema.org",
+        "@type" => "DentalClinic",
+        "name" => "Revansh Dental Clinic",
+        "url" => "https://revanshdentalclinic.com/",
+        "logo" => "https://revanshdentalclinic.com/logo.png",
+        "image" => "https://revanshdentalclinic.com/clinic.jpg",
+        "description" => "Revansh Dental Clinic in Mangalagiri offers comprehensive dental care with advanced treatments, ensuring healthy and beautiful smiles.",
+        "address" => [
+            "@type" => "PostalAddress",
+            "streetAddress" => "Opposite ICICI Bank, 1st Floor, Above Jawed Habeeb, Mangalagiri-Tenali Road, Mangalagiri-522503",
+            "addressLocality" => "Mangalagiri",
+            "addressRegion" => "Andhra Pradesh",
+            "postalCode" => "522503",
+            "addressCountry" => "IN"
+        ],
+        "telephone" => "+91-9493346026, +91-9666289499",
+        "openingHours" => [
+            "Monday to Saturday 09:30 AM to 08:30 PM"
+        ],
+        "priceRange" => "$$",
+        "geo" => [
+            "@type" => "GeoCoordinates",
+            "latitude" => 16.4305,
+            "longitude" => 80.5682
+        ],
+        "sameAs" => [
+            "https://www.facebook.com/RevanshDentalClinic",
+            "https://www.instagram.com/RevanshDentalClinic"
+        ]
+    ];
+    
+    echo json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+    ?>
 
 
 
@@ -525,3 +562,8 @@ Oral hygiene consultation in Mangalagiri">
             });
         });
     </script>
+
+
+
+
+   
