@@ -9,6 +9,33 @@
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
 
+
+
+    <meta name="title"  content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles" >
+
+    <meta name="description" content="Revansh Dental Clinic - the best dental clinic in Mangalagiri - offers expert care, from general dentistry to cosmetic treatments, implants & orthodontics. Book your appointment today!">
+
+<meta name="keywords" content="Best root canal treatment in Mangalagiri
+Affordable dental care in Mangalagiri
+Painless tooth extraction in Mangalagiri
+Dental implants specialist in Mangalagiri
+Teeth whitening services in Mangalagiri
+Best pediatric dentist in Mangalagiri
+Gum disease treatment in Mangalagiri
+Cosmetic dentistry in Mangalagiri
+Best dental crowns and bridges in Mangalagiri
+Emergency dental care in Mangalagiri
+Dental braces and aligners in Mangalagiri
+Family dental clinic in Mangalagiri
+Advanced oral care in Mangalagiri
+Best smile makeover in Mangalagiri
+Oral hygiene consultation in Mangalagiri">
+
+
+
+
+<link rel="canonical" href="https://revanshdentalclinic.com/">
+
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
@@ -32,6 +59,53 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/style1.css" rel="stylesheet">
+
+
+
+
+    <script >
+        {
+ 
+        "@context" => "https://schema.org",
+        "@type" => "DentalClinic",
+        "name" => "Revansh Dental Clinic",
+        "url" => "https://revanshdentalclinic.com/",
+        "logo" => "https://revanshdentalclinic.com/logo.png",
+        "image" => "https://revanshdentalclinic.com/clinic.jpg",
+        "description" => "Revansh Dental Clinic in Mangalagiri offers comprehensive dental care with advanced treatments, ensuring healthy and beautiful smiles.",
+        "address" => [
+            "@type" => "PostalAddress",
+            "streetAddress" => "Opposite ICICI Bank, 1st Floor, Above Jawed Habeeb, Mangalagiri-Tenali Road, Mangalagiri-522503",
+            "addressLocality" => "Mangalagiri",
+            "addressRegion" => "Andhra Pradesh",
+            "postalCode" => "522503",
+            "addressCountry" => "IN"
+        ],
+        "telephone" => "+91-9493346026, +91-9666289499",
+        "openingHours" => [
+            "Monday to Saturday 09:30 AM to 08:30 PM"
+        ],
+        "priceRange" => "$$",
+        "geo" => [
+            "@type" => "GeoCoordinates",
+            "latitude" => 16.4305,
+            "longitude" => 80.5682
+        ],
+        "sameAs" => [
+            "https://www.facebook.com/RevanshDentalClinic",
+            "https://www.instagram.com/RevanshDentalClinic"
+        ]
+    }
+    
+    </script>
+
+
+
+
+
+
+
+
 
 
     <!-- animation  -->

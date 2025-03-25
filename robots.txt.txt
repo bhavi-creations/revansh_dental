@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /search/
+Disallow: /?s=
+Disallow: /private/
+Disallow: /thank-you/
+
+Sitemap: https://revanshdentalclinic.com/sitemap.xml
