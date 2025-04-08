@@ -102,7 +102,7 @@ Oral hygiene consultation in Mangalagiri">
 
 
 
-    <?php  
+    <!-- <?php  
     $schema = [
         "@context" => "https://schema.org",
         "@type" => "DentalClinic",
@@ -137,7 +137,7 @@ Oral hygiene consultation in Mangalagiri">
     
     echo json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
     ?>
-
+ -->
 
 
 

@@ -62,7 +62,7 @@ include "./includes/header.php";
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/about.png" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="img/about_doctor.png" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@ include "./includes/header.php";
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <div class="position-relative rounded-top" style="z-index: 1;">
-                            <img class="img-fluid rounded-top w-100" src="img/team-1.jpg" alt="">
+                            <img class="img-fluid rounded-top w-100" src="img/doctor1.png" alt="">
                             <!-- <div class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
                                 <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -137,7 +137,7 @@ include "./includes/header.php";
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                     <div class="team-item">
                         <div class="position-relative rounded-top" style="z-index: 1;">
-                            <img class="img-fluid rounded-top w-100" src="img/team-2.jpg" alt="">
+                            <img class="img-fluid rounded-top w-100" src="img/doctor2.png" alt="">
                             <!-- <div class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
                                 <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square m-1" href="#"><i class="fab fa-facebook-f fw-normal"></i></a>
