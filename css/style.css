@@ -216,7 +216,8 @@ justify-content: center;
 
 .hero-header {
     /* background: linear-gradient(rgba(39, 49, 63, 0.85), rgba(1, 15, 37, 0.85)),  center center no-repeat; */
-    background: linear-gradient(rgba(9, 30, 62, .85), rgba(9, 30, 62, .85)), url(../assets/img/service_image/revansh_equipment1.png) center center no-repeat;
+    /* background: linear-gradient(rgba(9, 30, 62, .85), rgba(9, 30, 62, .85)), url(../assets/img/service_image/revansh_equipment1.png); */
+    background: linear-gradient(rgb(54 73 103 / 85%), rgb(30 40 54 / 85%)), url(../assets/img/service_image/revansh_equipment1.png) center center no-repeat;
     background-size: cover;
 }
 
