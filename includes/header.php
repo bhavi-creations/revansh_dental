@@ -6,8 +6,8 @@
     <title>Revansh Dental & physiotherapy</title>
     <link href="assets/img/logo/logo.png" rel="icon">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <!-- <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description"> -->
 
 
 
