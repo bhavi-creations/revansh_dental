@@ -11,30 +11,47 @@
 
 
 
-    <meta name="title"  content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles" >
+    <meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles">
 
     <meta name="description" content="Revansh Dental Clinic - the best dental clinic in Mangalagiri - offers expert care, from general dentistry to cosmetic treatments, implants & orthodontics. Book your appointment today!">
 
-<meta name="keywords" content="Best root canal treatment in Mangalagiri
-Affordable dental care in Mangalagiri
-Painless tooth extraction in Mangalagiri
-Dental implants specialist in Mangalagiri
-Teeth whitening services in Mangalagiri
-Best pediatric dentist in Mangalagiri
-Gum disease treatment in Mangalagiri
-Cosmetic dentistry in Mangalagiri
-Best dental crowns and bridges in Mangalagiri
+    <meta name="keywords" content="Best dental implants in Mangalagiri
+
+Affordable dental implants in Mangalagiri
+
+Top dental clinic in Mangalagiri
+
+Best Invisalign hospital in Mangalagiri
+
+Clear aligners treatment Mangalagiri
+
+Best root canal treatment in Mangalagiri
+
+Pain-free root canal specialist Mangalagiri
+
+Best dental hospital in Mangalagiri
+
+Best dentist in Mangalagiri
+
 Emergency dental care in Mangalagiri
-Dental braces and aligners in Mangalagiri
-Family dental clinic in Mangalagiri
-Advanced oral care in Mangalagiri
-Best smile makeover in Mangalagiri
-Oral hygiene consultation in Mangalagiri">
+
+Pediatric dentist in Mangalagiri
+
+Cosmetic dentistry Mangalagiri
+
+Teeth whitening services Mangalagiri
+
+Orthodontist in Mangalagiri
+
+Dental crowns and bridges Mangalagiri">
 
 
 
+    <meta name="description" content="Discover the best dental hospital in Mangalagiri at Revansh Dental Clinic. Experience expert dentists, state-of-the-art technology, and personalized care for all your dental needs. Book your appointment today for a healthy, confident smile!">
 
-<link rel="canonical" href="https://revanshdentalclinic.com/">
+    <link rel="canonical" href="https://revanshdentalclinic.com/"   />
+
+    <!-- <link rel="canonical" href="https://revanshdentalclinic.com/"> -->
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -63,81 +80,45 @@ Oral hygiene consultation in Mangalagiri">
 
 
 
-    <!-- <script >
+
+
+    <script type="application/ld+json">
         {
- 
-        "@context" => "https://schema.org",
-        "@type" => "DentalClinic",
-        "name" => "Revansh Dental Clinic",
-        "url" => "https://revanshdentalclinic.com/",
-        "logo" => "https://revanshdentalclinic.com/logo.png",
-        "image" => "https://revanshdentalclinic.com/clinic.jpg",
-        "description" => "Revansh Dental Clinic in Mangalagiri offers comprehensive dental care with advanced treatments, ensuring healthy and beautiful smiles.",
-        "address" => [
-            "@type" => "PostalAddress",
-            "streetAddress" => "Opposite ICICI Bank, 1st Floor, Above Jawed Habeeb, Mangalagiri-Tenali Road, Mangalagiri-522503",
-            "addressLocality" => "Mangalagiri",
-            "addressRegion" => "Andhra Pradesh",
-            "postalCode" => "522503",
-            "addressCountry" => "IN"
-        ],
-        "telephone" => "+91-9493346026, +91-9666289499",
-        "openingHours" => [
-            "Monday to Saturday 09:30 AM to 08:30 PM"
-        ],
-        "priceRange" => "$$",
-        "geo" => [
-            "@type" => "GeoCoordinates",
-            "latitude" => 16.4305,
-            "longitude" => 80.5682
-        ],
-        "sameAs" => [
-            "https://www.facebook.com/RevanshDentalClinic",
-            "https://www.instagram.com/RevanshDentalClinic"
-        ]
-    }
-    
-    </script> -->
+            "@context": "https://schema.org",
+            "@type": "Dentist",
+            "name": "Revansh Dental Clinic",
+            "image": "https://revanshdentalclinic.com/logo.png",
+            "url": "https://revanshdentalclinic.com/",
+            "telephone": ["‪+91-9493346026‬", "‪+91-9666289499‬"],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Above Jawed Habeeb, mangalagiri-Tenali Road",
+                "addressLocality": "Mangalagiri",
+                "addressRegion": "Andhra Pradesh",
+                "postalCode": "522503",
+                "addressCountry": "IN"
+            },
+            "openingHours": "Mo-Sa 10:00-18:00",
+            "priceRange": "₹₹",
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.4286662,
+                "longitude": 80.5738795
+            },
+            "sameAs": [
+                "https://www.facebook.com/revanshdentalphysiotherapy/",
+                "https://www.instagram.com/revanshdental_physiotherapy/",
+                "https://www.youtube.com/@revanshdentalphysiotherapy"
+            ],
+            "additionalProperty": {
+                "@type": "PropertyValue",
+                "name": "Location Detail",
+                "value": "Opposite Icici Bank, 1st Floor, Above Jawed Habeeb, mangalagiri-Tenali Road, Mangalagiri-522503"
+            }
+        }
+    </script>
 
 
-
-
-    <!-- <?php  
-    $schema = [
-        "@context" => "https://schema.org",
-        "@type" => "DentalClinic",
-        "name" => "Revansh Dental Clinic",
-        "url" => "https://revanshdentalclinic.com/",
-        "logo" => "https://revanshdentalclinic.com/logo.png",
-        "image" => "https://revanshdentalclinic.com/clinic.jpg",
-        "description" => "Revansh Dental Clinic in Mangalagiri offers comprehensive dental care with advanced treatments, ensuring healthy and beautiful smiles.",
-        "address" => [
-            "@type" => "PostalAddress",
-            "streetAddress" => "Opposite ICICI Bank, 1st Floor, Above Jawed Habeeb, Mangalagiri-Tenali Road, Mangalagiri-522503",
-            "addressLocality" => "Mangalagiri",
-            "addressRegion" => "Andhra Pradesh",
-            "postalCode" => "522503",
-            "addressCountry" => "IN"
-        ],
-        "telephone" => "+91-9493346026, +91-9666289499",
-        "openingHours" => [
-            "Monday to Saturday 09:30 AM to 08:30 PM"
-        ],
-        "priceRange" => "$$",
-        "geo" => [
-            "@type" => "GeoCoordinates",
-            "latitude" => 16.4305,
-            "longitude" => 80.5682
-        ],
-        "sameAs" => [
-            "https://www.facebook.com/RevanshDentalClinic",
-            "https://www.instagram.com/RevanshDentalClinic"
-        ]
-    ];
-    
-    echo json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-    ?>
- -->
 
 
 
@@ -160,7 +141,7 @@ Oral hygiene consultation in Mangalagiri">
 
 
 
-
+    <meta name="google-site-verification" content="ZUwIgDC_wg22icVHicONKeoHM6jllSmZkV5lzO5HgbU"   />
 
 </head>
 
@@ -207,7 +188,7 @@ Oral hygiene consultation in Mangalagiri">
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0 my-2">
         <a href="index.php" class="navbar-brand p-0 d-none d-md-block ">
             <img src="assets/img/logo/logo.png" alt="" class="img-fluid my-1 ">
-             
+
         </a>
 
 
@@ -382,15 +363,13 @@ Oral hygiene consultation in Mangalagiri">
         }
 
         .chat-icon i {
-       font-size: 40px;
-       color: #ffffff !important    ;
+            font-size: 40px;
+            color: #ffffff !important;
         }
-
-        
     </style>
 
     <div class="chat-icon" id="chat-icon">
-    <i class="fab fa-whatsapp"></i>
+        <i class="fab fa-whatsapp"></i>
     </div>
 
     <div class="chat-container" id="chat-container">
@@ -504,7 +483,7 @@ Oral hygiene consultation in Mangalagiri">
     </script>
 
 
-<script></script>
+    <script></script>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             let chatBox = document.getElementById("chat-box");
@@ -562,8 +541,3 @@ Oral hygiene consultation in Mangalagiri">
             });
         });
     </script>
-
-
-
-
-   

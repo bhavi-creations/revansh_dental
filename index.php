@@ -447,7 +447,7 @@ include "./includes/header.php";
                         <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-11.png" alt="">
                         <p class="fs-5">A very good experience at Revansh Dental clinic , very good at detail and accomodative for quick turn around . Dentist are very knowledgeable and adept at the dental craft ,very patient in answering all questions</p>
                         <hr class="mx-auto w-25">
-                        <h4 class="text-white mb-0">Mani malladi</h4>
+                        <h4 class="text-white mb-0">Mani kumar malladi </h4>
                     </div>
                     <div class="testimonial-item text-center text-white">
                         <img class="img-fluid mx-auto rounded mb-4" src="img/testimonial-22.png" alt="">
