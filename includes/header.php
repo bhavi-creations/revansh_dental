@@ -15,7 +15,7 @@
 
     <meta name="description" content="Revansh Dental Clinic - the best dental clinic in Mangalagiri - offers expert care, from general dentistry to cosmetic treatments, implants & orthodontics. Book your appointment today!">
 
-    <meta name="keywords" content="Best dental implants in Mangalagiri
+    <meta name="keywords" content="Best dental implants in    Mangalagiri
 
 Affordable dental implants in Mangalagiri
 
