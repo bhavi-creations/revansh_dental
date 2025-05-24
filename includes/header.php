@@ -45,7 +45,7 @@ Orthodontist in Mangalagiri
 
 Dental crowns and bridges Mangalagiri"> -->
 
-<meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles">
+<!-- <meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles">
 <meta name="description"  content="Revansh Dental Clinic - the best dental clinic in Mangalagiri - offers expert care, from general dentistry to cosmetic treatments, implants & orthodontics. Book your appointment today!">
 
 <meta name="keywords" content="Best dental implants in    Mangalagiri
@@ -76,7 +76,22 @@ Teeth whitening services Mangalagiri
 
 Orthodontist in Mangalagiri
 
-Dental crowns and bridges Mangalagiri">
+Dental crowns and bridges Mangalagiri"> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -109,6 +124,43 @@ Dental crowns and bridges Mangalagiri">
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/style1.css" rel="stylesheet">
+
+
+
+    <meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles">
+   <!-- <meta name="description" content="Vision Multispecialty Dental Hospital in Guntur provides expert dental care, offering dental implants, root canals, pediatric dentistry, and cosmetic treatments."> -->
+   <meta name="keywords" content="Best dental implants in    Mangalagiri
+
+Affordable dental implants in Mangalagiri
+
+Top dental clinic in Mangalagiri
+
+Best Invisalign hospital in Mangalagiri
+
+Clear aligners treatment Mangalagiri
+
+Best root canal treatment in Mangalagiri
+
+Pain-free root canal specialist Mangalagiri
+
+Best dental hospital in Mangalagiri
+
+Best dentist in Mangalagiri
+
+Emergency dental care in Mangalagiri
+
+Pediatric dentist in Mangalagiri
+
+Cosmetic dentistry Mangalagiri
+
+Teeth whitening services Mangalagiri
+
+Orthodontist in Mangalagiri
+
+Dental crowns and bridges Mangalagiri">
+
+
+
 
 
 
