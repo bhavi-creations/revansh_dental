@@ -8,11 +8,10 @@
 
 
 
-
-     <link rel="canonical" href="https://revanshdentalclinic.com/">
-    <meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles">
-    <meta name="description" content="Vision Multispecialty Dental Hospital in Guntur provides expert dental care, offering dental implants, root canals, pediatric dentistry, and cosmetic treatments.">
-    <meta name="keywords" content="Best dental implants in    Mangalagiri
+     <!-- <link rel="canonical" href="https://revanshdentalclinic.com/"> -->
+    <!-- <meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles"> -->
+    <!-- <meta name="description" content="Vision Multispecialty Dental Hospital in Guntur provides expert dental care, offering dental implants, root canals, pediatric dentistry, and cosmetic treatments."> -->
+    <!-- <meta name="keywords" content="Best dental implants in    Mangalagiri
 
 Affordable dental implants in Mangalagiri,
 
@@ -40,13 +39,46 @@ Teeth whitening services Mangalagiri,
 
 Orthodontist in Mangalagiri,
 
-Dental crowns and bridges Mangalagiri">
+Dental crowns and bridges Mangalagiri"> -->
     <link href="assets/img/logo/logo.png" rel="icon">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <!-- <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description"> -->
 
 
+
+
+<meta name="description"  content="Discover the best dental hospital in Mangalagiri at Revansh Dental Clinic. Experience expert dentists, state-of-the-art technology, and personalized care for all your dental needs. Book your appointment today for a healthy, confident smile">
+
+    <meta name=" keywords" content="Best dental implants in Mangalagiri
+
+Affordable dental implants in Mangalagiri
+
+Top dental clinic in Mangalagiri
+
+Best Invisalign hospital in Mangalagiri
+
+Clear aligners treatment Mangalagiri
+
+Best root canal treatment in Mangalagiri
+
+Pain-free root canal specialist Mangalagiri
+
+Best dental hospital in Mangalagiri
+
+Best dentist in Mangalagiri
+
+Emergency dental care in Mangalagiri
+
+Pediatric dentist in Mangalagiri
+
+Cosmetic dentistry Mangalagiri
+
+Teeth whitening services Mangalagiri
+
+Orthodontist in Mangalagiri
+
+Dental crowns and bridges Mangalagiri">
 
 
 
