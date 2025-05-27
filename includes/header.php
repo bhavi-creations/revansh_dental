@@ -4,7 +4,12 @@
 <head>
     <meta charset="utf-8">
     <title>Revansh Dental & physiotherapy</title>
-    <link rel="canonical" href="https://revanshdentalclinic.com/" />
+    <!-- <link rel="canonical" href="https://revanshdentalclinic.com/" /> -->
+
+
+
+
+     <link rel="canonical" href="https://revanshdentalclinic.com/">
     <meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles">
     <meta name="description" content="Vision Multispecialty Dental Hospital in Guntur provides expert dental care, offering dental implants, root canals, pediatric dentistry, and cosmetic treatments.">
     <meta name="keywords" content="Best dental implants in    Mangalagiri
