@@ -15,10 +15,12 @@ src: url("https://mdn.github.io/shared-assets/fonts/variable-fonts/MutatorSans.t
     ,#ffffff);
    }
    .top-shape{
-    background: linear-gradient(to right,#6c6c73
+    /* background: linear-gradient(to right,#6c6c73
 ,#9a9abb4a
 
-); 
+);  */
+
+background: linear-gradient(to right, #6c6c73, #9898a6);
    }
 .content-cert{   
    font-family: 'Jost', sans-serif !important;

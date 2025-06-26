@@ -115,11 +115,20 @@ justify-content: center;
     width:45px;
     height: 100%;
     top: 0;
-    left: -17px;
+    left: -28px !important;
     /* background: var(--primary); */
     background:#6c6c73;
     transform: skew(40deg);
    
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+  .top-shape::before {
+
+    left: -17px !important;
+
+   
+}
 }
 
 .navbar-light .navbar-nav .nav-link {

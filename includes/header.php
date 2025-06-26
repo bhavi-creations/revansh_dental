@@ -8,7 +8,7 @@
 
 
 
-     <!-- <link rel="canonical" href="https://revanshdentalclinic.com/"> -->
+    <!-- <link rel="canonical" href="https://revanshdentalclinic.com/"> -->
     <!-- <meta name="title" content="Best Dental Clinic in Mangalagiri - Revansh Dental Clinic for Healthy Smiles"> -->
     <!-- <meta name="description" content="Vision Multispecialty Dental Hospital in Guntur provides expert dental care, offering dental implants, root canals, pediatric dentistry, and cosmetic treatments."> -->
     <!-- <meta name="keywords" content="Best dental implants in    Mangalagiri
@@ -41,14 +41,11 @@ Orthodontist in Mangalagiri,
 
 Dental crowns and bridges Mangalagiri"> -->
     <link href="assets/img/logo/logo.png" rel="icon">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <!-- <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description"> -->
 
 
 
 
-<meta name="description"  content="Discover the best dental hospital in Mangalagiri at Revansh Dental Clinic. Experience expert dentists, state-of-the-art technology, and personalized care for all your dental needs. Book your appointment today for a healthy, confident smile">
+    <meta name="description" content="Discover the best dental hospital in Mangalagiri at Revansh Dental Clinic. Experience expert dentists, state-of-the-art technology, and personalized care for all your dental needs. Book your appointment today for a healthy, confident smile">
 
     <meta name=" keywords" content="Best dental implants in Mangalagiri
 
@@ -170,8 +167,9 @@ Dental crowns and bridges Mangalagiri">
     <!-- Spinner End -->
 
 
-    <!-- Topbar Start -->
-    <div class="container-fluid  pe-0 d-none d-lg-block first_nav px-5">
+
+
+    <div class="container-fluid  pe-0 d-none d-lg-block d-xl-none first_nav px-5">
         <div class="row gx-0">
             <div class="col-md-6 text-center text-lg-start mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center">
@@ -181,6 +179,35 @@ Dental crowns and bridges Mangalagiri">
             <div class="col-md-6 text-center text-lg-end">
                 <div class="position-relative d-inline-flex align-items-center top-shape px-5">
                     <div class="me-3 pe-3 border-end py-2  text-white ">
+                        <!-- <p class="m-0"> <i class="bi bi-envelope-open text-primary me-2" style="z-index: 999999999999999999999999;"></i></i>revanshdentalphysiotherapy@gmail.com</p> -->
+                        <p class="m-0"><i class="fa fa-envelope-open me-2"></i>revanshdentalphysiotherapy  <br> @gmail.com</p>
+                    </div>
+                    <div class="py-2  text-white ">
+                        <p class="m-0"><i class="fa fa-phone-alt me-2"></i>+91-9493346026</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!-- Topbar Start -->
+    <div class="container-fluid  pe-0 d-none d-xl-block first_nav px-5">
+        <div class="row gx-0">
+            <div class="col-md-6 text-center text-lg-start mb-2 mb-lg-0">
+                <div class="d-inline-flex align-items-center">
+                    <small class="py-2 small_text"><i class="far fa-clock text-primary me-2"></i>Opening Hours: Mon - sat : 10.00 am - 8.00 pm, Sunday Closed </small>
+                </div>
+            </div>
+            <div class="col-md-6 text-center text-lg-end">
+                <div class="position-relative d-inline-flex align-items-center top-shape px-5">
+                    <div class="me-3 pe-3 border-end py-2  text-white ">
+                        <!-- <p class="m-0"> <i class="bi bi-envelope-open text-primary me-2" style="z-index: 999999999999999999999999;"></i></i>revanshdentalphysiotherapy@gmail.com</p> -->
                         <p class="m-0"><i class="fa fa-envelope-open me-2"></i>revanshdentalphysiotherapy@gmail.com</p>
                     </div>
                     <div class="py-2  text-white ">
