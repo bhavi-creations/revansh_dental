@@ -530,9 +530,9 @@ margin-bottom: 30px;
   font-weight: 600;
 }
 
-@media (max-width:768px) {
+/* @media (max-width:768px) {
   .faq_entire_section{
     display: none !important;
   }
   
-}
+} */
