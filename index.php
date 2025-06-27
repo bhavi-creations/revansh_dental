@@ -581,7 +581,7 @@ include "./includes/header.php";
 </section>
 
 
-<section class="faq_entire_section">
+<section >
     <div class="container">
 
         <h1 class="text-center">Frequently Ask Question (FAQ)</h1>
