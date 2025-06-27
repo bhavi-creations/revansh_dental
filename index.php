@@ -128,8 +128,8 @@ include "./includes/header.php";
                     <h1 class="text-white mb-4">Make Appointment</h1>
                     <form action="appointmentform.php" method="post" role="form" class="php-email-form"
                         data-aos-delay="100">
-                            <div class="row g-3">
-                                <!-- <div class="col-12 col-sm-6">
+                        <div class="row g-3">
+                            <!-- <div class="col-12 col-sm-6">
                                     <select class="form-select bg-light border-0" style="height: 55px;">
                                         <option selected>Select A Service</option>
                                         <option value="1">Service 1</option>
@@ -145,51 +145,51 @@ include "./includes/header.php";
                                         <option value="3">Doctor 3</option>
                                     </select>
                                 </div> -->
-                                <div class="col-12 col-sm-6">
-                                    <input type="text" name="name" class="form-control bg-light border-0" placeholder="Your Name" style="height: 55px;">
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <input type="email" name="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
-                                </div>
-
-                                
-                                <div class="col-12 col-sm-6">
-                                    <input type="text" name="number" class="form-control bg-light border-0" placeholder="Contact" style="height: 55px;">
-                                </div>
+                            <div class="col-12 col-sm-6">
+                                <input type="text" name="name" class="form-control bg-light border-0" placeholder="Your Name" style="height: 55px;">
+                            </div>
+                            <div class="col-12 col-sm-6">
+                                <input type="email" name="email" class="form-control bg-light border-0" placeholder="Your Email" style="height: 55px;">
+                            </div>
 
 
-                                <div class="col-12 col-sm-6">
-                                    <select class="form-select bg-light border-0" name="service" style="height: 55px;">
-                                        <option selected>Select Service</option>
-                                        <option value="Dental implants">Dental implants</option>
-                                        <option value="Smile designing ">Smile designing </option>
-                                        <option value="Laser Dental Treatment">Laser Dental Treatment</option>
-                                        <option value="Invisible aligners ">Invisible aligners </option>
-                                        <option value="Teeth whitening">Teeth whitening</option>
-                                        <option value="Teeth cleaning">Teeth cleaning</option>
-                                        <option value="Teeth jewellery">Teeth jewellery</option>
-                                        <option value="root canal">root canal</option>
-                                    </select>
-                                </div> 
-                                <div class="col-12 col-sm-6">
-                                    <div class="date" id="date1" data-target-input="nearest">
-                                        <input type="text" name="date"
-                                            class="form-control bg-light border-0 datetimepicker-input"
-                                            placeholder="Appointment Date" data-target="#date1" data-toggle="datetimepicker" style="height: 55px;">
-                                    </div>
-                                </div>
-                                <div class="col-12 col-sm-6">
-                                    <div class="time" id="time1" data-target-input="nearest">
-                                        <input type="text" name="time"
-                                            class="form-control bg-light border-0 datetimepicker-input"
-                                            placeholder="Appointment Time" data-target="#time1" data-toggle="datetimepicker" style="height: 55px;">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <button class="btn btn-dark w-100 py-3" type="submit">Make Appointment</button>
+                            <div class="col-12 col-sm-6">
+                                <input type="text" name="number" class="form-control bg-light border-0" placeholder="Contact" style="height: 55px;">
+                            </div>
+
+
+                            <div class="col-12 col-sm-6">
+                                <select class="form-select bg-light border-0" name="service" style="height: 55px;">
+                                    <option selected>Select Service</option>
+                                    <option value="Dental implants">Dental implants</option>
+                                    <option value="Smile designing ">Smile designing </option>
+                                    <option value="Laser Dental Treatment">Laser Dental Treatment</option>
+                                    <option value="Invisible aligners ">Invisible aligners </option>
+                                    <option value="Teeth whitening">Teeth whitening</option>
+                                    <option value="Teeth cleaning">Teeth cleaning</option>
+                                    <option value="Teeth jewellery">Teeth jewellery</option>
+                                    <option value="root canal">root canal</option>
+                                </select>
+                            </div>
+                            <div class="col-12 col-sm-6">
+                                <div class="date" id="date1" data-target-input="nearest">
+                                    <input type="text" name="date"
+                                        class="form-control bg-light border-0 datetimepicker-input"
+                                        placeholder="Appointment Date" data-target="#date1" data-toggle="datetimepicker" style="height: 55px;">
                                 </div>
                             </div>
-                        
+                            <div class="col-12 col-sm-6">
+                                <div class="time" id="time1" data-target-input="nearest">
+                                    <input type="text" name="time"
+                                        class="form-control bg-light border-0 datetimepicker-input"
+                                        placeholder="Appointment Time" data-target="#time1" data-toggle="datetimepicker" style="height: 55px;">
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-dark w-100 py-3" type="submit">Make Appointment</button>
+                            </div>
+                        </div>
+
                     </form>
                 </div>
             </div>
@@ -242,54 +242,55 @@ include "./includes/header.php";
             </div>
         </div>
         <div class="row g-5 wow fadeInUp" data-wow-delay="0.1s">
-           
-                    <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                        <div class="rounded-top overflow-hidden">
-                            <img class="img-fluid" src="assets/img/revansh/invisible_aligners.png" alt="">
-                        </div>
-                        <div class="position-relative bg-light rounded-bottom text-center p-4">
-                            <h5 class="m-0"> <a href="invisible_aligners.php">Invisible Aligners</a></h5>
-                        </div>
-                    </div>
-                    <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
-                        <div class="rounded-top overflow-hidden">
-                            <img class="img-fluid" src="assets/img/revansh/teeth_whitening.png" alt="">
-                        </div>
-                        <div class="position-relative bg-light rounded-bottom text-center p-4">
-                            <h5 class="m-0"> <a href="teeth_whitening.php"> Teeth Whitening</a> </h5>
-                        </div>
-                    </div>
-                    <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
-                    <div class="rounded-top overflow-hidden">
-                        <img class="img-fluid" src="assets/img/revansh/teeth_jewellery.png" alt="">
-                    </div>
-                    <div class="position-relative bg-light rounded-bottom text-center p-4">
-                        <h5 class="m-0"> <a href="teeth_jewellery.php"> Teeth Jewellery</a> </h5>
-                    </div>
-                </div>
-              
-            </div>
-       
 
-                <!-- <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-4">
+            <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
+                <div class="rounded-top overflow-hidden">
+                    <img class="img-fluid" src="assets/img/revansh/invisible_aligners.png" alt="">
+                </div>
+                <div class="position-relative bg-light rounded-bottom text-center p-4">
+                    <h5 class="m-0"> <a href="invisible_aligners.php">Invisible Aligners</a></h5>
+                </div>
+            </div>
+            <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                <div class="rounded-top overflow-hidden">
+                    <img class="img-fluid" src="assets/img/revansh/teeth_whitening.png" alt="">
+                </div>
+                <div class="position-relative bg-light rounded-bottom text-center p-4">
+                    <h5 class="m-0"> <a href="teeth_whitening.php"> Teeth Whitening</a> </h5>
+                </div>
+            </div>
+            <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                <div class="rounded-top overflow-hidden">
+                    <img class="img-fluid" src="assets/img/revansh/teeth_jewellery.png" alt="">
+                </div>
+                <div class="position-relative bg-light rounded-bottom text-center p-4">
+                    <h5 class="m-0"> <a href="teeth_jewellery.php"> Teeth Jewellery</a> </h5>
+                </div>
+            </div>
+
+        </div>
+
+
+        <!-- <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-4">
                         <h3 class="text-white mb-3">Make Appointment</h3>
                         <p class="text-white mb-3">Clita ipsum magna kasd rebum at ipsum amet dolor justo dolor est magna stet eirmod</p>
                         <h2 class="text-white mb-0">+012 345 6789</h2>
                     </div> -->
 
 
-                
-           
-        </div>
 
-      </div></div>
-      <div class="service_content_view zoomIn ">
-
-            <a href="service.php" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">View More <i class="bi bi-arrow-right "></i></a>
-
-        </div>
 
     </div>
+
+</div>
+</div>
+<div class="service_content_view zoomIn ">
+
+    <a href="service.php" class="btn btn-primary py-3 px-5 mt-4 wow zoomIn" data-wow-delay="0.6s">View More <i class="bi bi-arrow-right "></i></a>
+
+</div>
+
+</div>
 </div>
 <!-- Service End -->
 
@@ -564,7 +565,7 @@ include "./includes/header.php";
             <div class="mt-5 d-none d-md-block">
                 <a href="blogs.php" style="text-decoration: none;">
                     <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More &nbsp;&nbsp;<i class="bi bi-arrow-right text-primary me-2"></i>
-                        </p>
+                    </p>
                 </a>
             </div>
 
@@ -581,6 +582,186 @@ include "./includes/header.php";
 
 
 
+<section class="faq_entire_section">
+    <div class="container">
+
+        <h1 class="text-center">Frequently Ask Question (FAQ)</h1>
+        <div class="row">
+            <div class="col-12 col-md-6">
+                <div class="accordion">
+                    <!-- Accordion 1 -->
+                    <div class="faq_section">
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section">What is a root canal and when is it needed?
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                A root canal is a dental procedure that removes infected pulp from inside a tooth. It's needed when tooth decay or injury causes pain, swelling, or sensitivity in the tooth </p>
+                        </div>
+                    </div>
+                    <!-- Accordion 2 -->
+                    <div class="faq_section">
+
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section"> Are dental implants better than dentures?
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                Yes, dental implants are a more permanent and natural-looking solution compared to dentures. They don't slip, last longer, and help preserve jawbone health </p>
+                        </div>
+                    </div>
+
+
+
+                    <!-- Accordion 3 -->
+                    <div class="faq_section">
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section">How often should I visit the dentist for a check-up?
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                It’s recommended to visit your dentist every 6 months for a routine check-up and cleaning. Early detection helps prevent serious dental issues </p>
+                        </div>
+                    </div>
+
+                    <!-- Accordion 4 -->
+
+
+
+
+
+
+
+                    <div class="faq_section">
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section"> Where is Revansh Dental Clinic and how can I book an appointment?
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                We are located in central Mangalagiri with easy access. Appointments can be booked by calling us or through our website. Walk-ins are also welcome for most services </p>
+                        </div>
+                    </div>
+
+                    <!-- Accordion 5 -->
+                    <!-- <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2  class="faq_heading_section" >Can cancer be prevented?
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  Not all cancers are preventable, but up to 30-50% of cases can be avoided through healthy lifestyle choices, regular screenings, vaccinations (like HPV), and avoiding carcinogens such as tobacco and processed foods
+                </p>
+              </div>
+            </div> -->
+
+                </div>
+
+            </div>
+            <div class="col-12 col-md-6">
+
+
+                <div class="accordion">
+                    <!-- Accordion 1 -->
+                    <div class="faq_section">
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section"> Do you offer dental implants at Revansh Dental Clinic, Mangalagiri?
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                Yes, we provide safe and affordable dental implants in Mangalagiri. Our implantologist uses high-quality materials to restore missing teeth with lasting results </p>
+                        </div>
+                    </div>
+                    <!-- Accordion 2 -->
+                    <div class="faq_section">
+
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section"> Who performs root canal treatment at your clinic?
+
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                Root canal procedures at Revansh Dental Clinic are performed by a trained endodontist using advanced rotary and digital equipment for precise and painless results </p>
+                        </div>
+                    </div>
+
+
+
+                    <!-- Accordion 3 -->
+                    <div class="faq_section">
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section"> Is Revansh Dental Clinic suitable for children’s dental care?
+
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                Yes, our clinic offers child-friendly dental services in Mangalagiri. From cavity fillings to preventive care, we ensure a gentle experience for kids </p>
+                        </div>
+                    </div>
+                    <!-- Accordion 4 -->
+                    <div class="faq_section">
+                        <div class="accordion-header" onclick="toggleAccordion(this)">
+                            <h2 class="faq_heading_section">Is a root canal painful?
+
+                            </h2>
+                            <h2 class="accordion-icon">+</h2>
+                        </div>
+                        <div class="accordion-content">
+                            <p>
+                                With modern techniques and local anesthesia, root canal treatment is typically painless. Patients may feel mild discomfort after the procedure, which subsides quickly
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Accordion 5 -->
+                    <!-- <div class="faq_section">
+              <div class="accordion-header" onclick="toggleAccordion(this)">
+                <h2 class="faq_heading_section"> Can cancer be cured if detected early?
+                </h2>
+                <h2 class="accordion-icon">+</h2>
+              </div>
+              <div class="accordion-content">
+                <p>
+                  Yes, many types of cancer can be effectively treated or even cured if detected at an early stage. Regular screenings, awareness of symptoms, and early intervention improve survival rates significantly
+                </p>
+              </div>
+            </div> -->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<script>
+    function toggleAccordion(header) {
+        const content = header.nextElementSibling;
+        const icon = header.querySelector(".accordion-icon");
+
+        content.classList.toggle("open");
+        icon.classList.toggle("rotate");
+
+        icon.textContent = content.classList.contains("open") ? "−" : "+";
+    }
+</script>
 
 
 
