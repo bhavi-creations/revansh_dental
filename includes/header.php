@@ -109,36 +109,49 @@ Dental crowns and bridges Mangalagiri">
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": "Dentist",
+            "@type": "DentalClinic",
             "name": "Revansh Dental Clinic",
-            "image": "https://revanshdentalclinic.com/logo.png",
             "url": "https://revanshdentalclinic.com/",
-            "telephone": ["‪+91-9493346026‬", "‪+91-9666289499‬"],
+            "logo": "https://revanshdentalclinic.com/logo.png",
+            "image": "https://revanshdentalclinic.com/clinic.jpg",
+            "description": "Revansh Dental Clinic in Mangalagiri offers comprehensive dental care with advanced treatments, ensuring healthy and beautiful smiles.",
             "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "Above Jawed Habeeb, mangalagiri-Tenali Road",
+                "streetAddress": "Opposite ICICI Bank, 1st Floor, Above Jawed Habeeb, Mangalagiri-Tenali Road, Mangalagiri",
                 "addressLocality": "Mangalagiri",
                 "addressRegion": "Andhra Pradesh",
                 "postalCode": "522503",
                 "addressCountry": "IN"
             },
-            "openingHours": "Mo-Sa 10:00-18:00",
-            "priceRange": "₹₹",
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": 16.4286662,
                 "longitude": 80.5738795
             },
-            "sameAs": [
-                "https://www.facebook.com/revanshdentalphysiotherapy/",
-                "https://www.instagram.com/revanshdental_physiotherapy/",
-                "https://www.youtube.com/@revanshdentalphysiotherapy"
+            "telephone": "+91-9493346026",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+91-9666289499",
+                "contactType": "Customer Service",
+                "areaServed": "Mangalagiri, Andhra Pradesh",
+                "availableLanguage": ["English", "Telugu"]
+            },
+            "openingHours": [
+                "Monday-Saturday 09:30-20:30"
             ],
-            "additionalProperty": {
-                "@type": "PropertyValue",
-                "name": "Location Detail",
-                "value": "Opposite Icici Bank, 1st Floor, Above Jawed Habeeb, mangalagiri-Tenali Road, Mangalagiri-522503"
-            }
+            "priceRange": "₹₹",
+            "founder": {
+                "@type": "Person",
+                "name": "Dr. P. Indeevar Reddy",
+                "jobTitle": "Chief Periodontist & Implantologist",
+                "honorificSuffix": "B.D.S., M.D.S.",
+                "sameAs": "https://revanshdentalclinic.com/about-doctor"
+            },
+            "sameAs": [
+                "https://www.facebook.com/RevanshDentalClinic",
+                "https://www.instagram.com/RevanshDentalClinic",
+                "https://g.co/kgs/eA3PCtZ"
+            ]
         }
     </script>
 
@@ -245,7 +258,7 @@ Dental crowns and bridges Mangalagiri">
 
 
 
-    <meta name="google-site-verification" content="ZUwIgDC_wg22icVHicONKeoHM6jllSmZkV5lzO5HgbU" />
+    <meta name="google-site-verification" content="ZUwIgDC_wg22icVHicONKeoHM6jllSmZkV5lzO5HgbU"   />
 
 
 
