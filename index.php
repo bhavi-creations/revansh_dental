@@ -49,33 +49,33 @@ Dental crowns and bridges Mangalagiri"> -->
 
     <meta name=" keywords" content="Best dental implants in Mangalagiri
 
-Affordable dental implants in Mangalagiri
+          Affordable dental implants in Mangalagiri
 
-Top dental clinic in Mangalagiri
+          Top dental clinic in Mangalagiri
 
-Best Invisalign hospital in Mangalagiri
+          Best Invisalign hospital in Mangalagiri
 
-Clear aligners treatment Mangalagiri
+          Clear aligners treatment Mangalagiri
 
-Best root canal treatment in Mangalagiri
+          Best root canal treatment in Mangalagiri
 
-Pain-free root canal specialist Mangalagiri
+          Pain-free root canal specialist Mangalagiri
 
-Best dental hospital in Mangalagiri
+          Best dental hospital in Mangalagiri
 
-Best dentist in Mangalagiri
+          Best dentist in Mangalagiri
 
-Emergency dental care in Mangalagiri
+          Emergency dental care in Mangalagiri
 
-Pediatric dentist in Mangalagiri
+          Pediatric dentist in Mangalagiri
 
-Cosmetic dentistry Mangalagiri
+          Cosmetic dentistry Mangalagiri
 
-Teeth whitening services Mangalagiri
+          Teeth whitening services Mangalagiri
 
-Orthodontist in Mangalagiri
+          Orthodontist in Mangalagiri
 
-Dental crowns and bridges Mangalagiri">
+          Dental crowns and bridges Mangalagiri">
 
 
 
@@ -157,14 +157,6 @@ Dental crowns and bridges Mangalagiri">
 
     <!-- animation  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-
-
-
-
-
-
-
-
 
 
 
@@ -260,9 +252,6 @@ Dental crowns and bridges Mangalagiri">
 
     <meta name="google-site-verification" content="ZUwIgDC_wg22icVHicONKeoHM6jllSmZkV5lzO5HgbU"   />
 
-
-
-
 </head>
 
 <body>
@@ -303,12 +292,6 @@ Dental crowns and bridges Mangalagiri">
             </div>
         </div>
     </div>
-
-
-
-
-
-
 
     <!-- Topbar Start -->
     <div class="container-fluid  pe-0 d-none d-xl-block first_nav px-5">
@@ -404,13 +387,6 @@ Dental crowns and bridges Mangalagiri">
             });
         });
     </script>
-
-
-
-
-
-
-
 
     <style>
         .chat-container {
