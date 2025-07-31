@@ -83,9 +83,9 @@ include "./includes/header.php";
                             <input type="number" name="number" class="form-control border-0 bg-light px-4" placeholder="number" style="height: 55px;">
                         </div>
                         <div class="control-group">
-                                <textarea class="form-control" name="message" placeholder="Message" required="required" data-validation-required-message="Please enter your message"></textarea>
-                              
-                            </div>
+                            <textarea class="form-control" name="message" placeholder="Message" required="required" data-validation-required-message="Please enter your message"></textarea>
+
+                        </div>
                         <div class="col-12">
                             <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
                         </div>
@@ -115,10 +115,18 @@ include "./includes/header.php";
 <!-- Newsletter End -->
 
 <div class="col-12 wow slideInUp" data-wow-delay="0.6s">
-    <iframe class="position-relative rounded w-100 h-100"
+    <!-- <iframe class="position-relative rounded w-100 h-100"
         src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d30616.598239961408!2d80.58636234737176!3d16.421028089292626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sOpposite%20Icici%20Bank%2C1st%20Floor%2CAbove%20Jawed%20Habeeb%2Cmangalagiri-Tenali%20Road%2CMangalagiri-522503!5e0!3m2!1sen!2sin!4v1740397070608!5m2!1sen!2sin"
         frameborder="0" style="min-height: 400px; border:0;" allowfullscreen="" aria-hidden="false"
+        tabindex="0"></iframe> -->
+
+    <iframe class="position-relative rounded w-100 h-100"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d216.447902796677!2d80.57376901532318!3d16.428711401783445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f1ea3f9110bf%3A0xaff5c4dda1c0bb1b!2sRevansh%20Dental%20%26%20Physiotherapy!5e1!3m2!1sen!2sin!4v1753944423243!5m2!1sen!2sin"
+        frameborder="0" style="min-height: 400px; border:0;" allowfullscreen="" aria-hidden="false"
         tabindex="0"></iframe>
+
+
+    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d216.447902796677!2d80.57376901532318!3d16.428711401783445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35f1ea3f9110bf%3A0xaff5c4dda1c0bb1b!2sRevansh%20Dental%20%26%20Physiotherapy!5e1!3m2!1sen!2sin!4v1753944423243!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 </div>
 
 
